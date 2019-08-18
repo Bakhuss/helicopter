@@ -8,7 +8,7 @@ public class Helipad {
     String type;
     String isValid;
     String index;
-    String[] position;
+    Double[] position;
     String avgas;
     String petrol;
     String kerosene;

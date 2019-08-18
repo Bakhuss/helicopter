@@ -5,5 +5,5 @@ import lombok.Data;
 @Data
 public class HeliIdPositionView {
     String id;
-    String[] position;
+    Double[] position;
 }
