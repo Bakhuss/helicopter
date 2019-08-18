@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import ru.hackathon.model.Helipad;
 import ru.hackathon.model.Restriction;
+import ru.hackathon.model.view.HeliIdPositionView;
 
 import java.io.IOException;
 import java.util.List;
@@ -30,9 +31,13 @@ public class HelipadService {
         return helipads;
     }
 
-    public Map<String, String[]> getHelicopterIdsAndPositions() throws IOException {
-        Map<String, String[]> helicopterIdAndPosition = helipads.stream().collect(Collectors.toMap(r -> r.getId(), r -> r.getPosition()));
-        return helicopterIdAndPosition;
+    public List<HeliIdPositionView> getHelicopterIdsAndPositions() throws IOException {
+        return helipads.stream().map(h -> {
+            HeliIdPositionView view = new HeliIdPositionView();
+            view.setId(h.getId());
+            view.setPosition(h.getPosition());
+            return view;
+        }).collect(Collectors.toList());
     }
 
     public Map<String, String[]> getRestrictions() {
