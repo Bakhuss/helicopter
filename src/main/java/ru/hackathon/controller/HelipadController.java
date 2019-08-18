@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import ru.hackathon.model.view.HeliIdPositionView;
+import ru.hackathon.model.view.RestrictionIdPositionView;
 import ru.hackathon.service.HelipadService;
 
 import java.util.List;
@@ -28,5 +29,10 @@ public class HelipadController {
     @GetMapping("/helipad")
     public List<HeliIdPositionView> getHeliIdsAndPositions() throws Exception {
         return helipadService.getHelicopterIdsAndPositions();
+    }
+
+    @GetMapping("/restrictions")
+    public List<RestrictionIdPositionView> getRestrictionIdsAndPositions() throws Exception {
+        return helipadService.getRestrictions();
     }
 }

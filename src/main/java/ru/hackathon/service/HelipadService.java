@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 import ru.hackathon.model.Helipad;
 import ru.hackathon.model.Restriction;
 import ru.hackathon.model.view.HeliIdPositionView;
+import ru.hackathon.model.view.RestrictionIdPositionView;
 
 import java.io.IOException;
 import java.util.List;
@@ -40,7 +41,12 @@ public class HelipadService {
         }).collect(Collectors.toList());
     }
 
-    public Map<String, String[]> getRestrictions() {
-        return null;
+    public List<RestrictionIdPositionView> getRestrictions() {
+        return restrictions.stream().map(h -> {
+            RestrictionIdPositionView view = new RestrictionIdPositionView();
+            view.setId(h.getId());
+            view.setPath(h.getPath());
+            return view;
+        }).collect(Collectors.toList());
     }
 }
