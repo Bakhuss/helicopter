@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "6842",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZD8R",
+    "position": [
+      55.209116666667,
+      33.87645
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗД8Р - Yakushkino - ГА",
+    "name": "ЯКУШКИНО"
+  },
+  {
+    "id": "6996",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZDC1",
+    "position": [
+      55.533308333333,
+      33.776347222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗДЦ1 - Nakhimovskoye - ГА",
+    "name": "НАХИМОВСКОЕ"
+  },
+  {
+    "id": "1347",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMR",
+    "position": [
+      55.1489167,
+      34.3829833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМР - Vyaz'ma (Dvoevka) - МО",
+    "name": "ДВОЕВКА"
+  },
+  {
+    "id": "1348",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZAY8",
+    "position": [
+      55.203563888889,
+      34.252822222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАЫ8 - Vyaz'ma (Zapadny) - АОН",
+    "name": "ВЯЗЬМА (ЗАПАДНЫЙ)"
+  },
+  {
+    "id": "7045",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZDE7",
+    "position": [
+      55.692266666667,
+      34.227616666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗДЕ7 - Dugino - ГА",
+    "name": "ДУГИНО"
+  },
+  {
+    "id": "5634",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZC6S",
+    "position": [
+      55.8401,
+      34.259216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦ6С - Sychevka - ГА",
+    "name": "СЫЧЕВКА"
+  },
+  {
+    "id": "242",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA2X",
+    "position": [
+      55.6224,
+      34.307133333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА2Ь - Novodugino - ГА",
+    "name": "НОВОДУГИНО"
+  },
+  {
+    "id": "8906",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZEW6",
+    "position": [
+      55.696633333333,
+      34.427333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕВ6 - Sementsovo - ГА",
+    "name": "СЕМЕНЦОВО"
+  },
+  {
+    "id": "1398",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB0C",
+    "position": [
+      54.8847,
+      34.569016666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ0Ц - Znamenka - ГА",
+    "name": "ЗНАМЕНКА"
+  },
+  {
+    "id": "1226",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAT8",
+    "position": [
+      55.02,
+      34.8266667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАТ8 - Ugra - АОН",
+    "name": "УГРА"
+  },
+  {
+    "id": "1160",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAQ6",
+    "position": [
+      55.06305,
+      34.999416666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАЯ6 - Temkino - ГА",
+    "name": "ТЕМКИНО"
+  },
+  {
+    "id": "8133",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZEB9",
+    "position": [
+      55.625166666667,
+      34.507883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕБ9 - Tesovo - ГА",
+    "name": "ТЁСОВО"
+  },
+  {
+    "id": "9813",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZF4M",
+    "position": [
+      55.581144444444,
+      34.729002777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ4М - Aeroklub Gagarin - АОН",
+    "name": "АЭРОКЛУБ ГАГАРИН"
+  },
+  {
+    "id": "1402",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB0F",
+    "position": [
+      56.159683333333,
+      34.6837
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ0Ф - Zubtsov - ГА",
+    "name": "ЗУБЦОВ"
+  },
+  {
+    "id": "6858",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZD92",
+    "position": [
+      55.6371,
+      34.82875
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗД92 - Aerodrom Gagarin - ГА",
+    "name": "АЭРОДРОМ ГАГАРИН"
+  },
+  {
+    "id": "877",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUTO",
+    "position": [
+      56.1438,
+      34.9881
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУТО - Orlovka - АОН",
+    "name": "ОРЛОВКА"
+  },
+  {
+    "id": "481",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA5S",
+    "position": [
+      56.1106,
+      35.443583333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА5С - Korostkino - ГА",
+    "name": "КОРОСТКИНО"
+  },
+  {
+    "id": "10734",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZF9Y",
+    "position": [
+      55.905936111111,
+      35.817205555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "ЗФ9Ы - Aerodrom Volokolamsk - АОН",
+    "name": "АЭРОДРОМ ВОЛОКОЛАМСК"
+  },
+  {
+    "id": "5804",
+    "type": "AD",
+    "isValid": false,
+    "index": "UUFM",
+    "position": [
+      54.902608333333,
+      35.880297222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУФМ - Mikheyevo - АОН",
+    "name": "МИХЕЕВО"
+  },
+  {
+    "id": "653",
+    "type": "AD",
+    "isValid": false,
+    "index": "XUBE",
+    "position": [
+      54.9448,
+      35.863363888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУБЕ - Medyn' - ДОСААФ",
+    "name": "МЕДЫНЬ"
+  },
+  {
+    "id": "7",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA05",
+    "position": [
+      55.002383333333,
+      35.9956
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА05 - Aduyevo - МО",
+    "name": "АДУЕВО"
+  },
+  {
+    "id": "1291",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZAW6",
+    "position": [
+      55.2891,
+      36.11555
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАВ6 - Vereya - АОН",
+    "name": "ВЕРЕЯ"
+  },
+  {
+    "id": "6270",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUWN",
+    "position": [
+      55.470783333333,
+      36.16465
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУВН - Narodnoye Nebo - АОН",
+    "name": "НАРОДНОЕ НЕБО"
+  },
+  {
+    "id": "1868",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUWH",
+    "position": [
+      55.49975,
+      36.2092
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУВХ - Aerograd Mozhayskiy - АОН",
+    "name": "АЭРОГРАД МОЖАЙСКИЙ"
+  },
+  {
+    "id": "538",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUWK",
+    "position": [
+      55.02335,
+      36.2442167
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУВК - Kudinovo - АОН",
+    "name": "КУДИНОВО"
+  },
+  {
+    "id": "1284",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMW",
+    "position": [
+      55.662466666667,
+      36.13855
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУМВ - Aerodrom Vatulino - АОН",
+    "name": "АЭРОДРОМ ВАТУЛИНО"
+  },
+  {
+    "id": "23",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUOA",
+    "position": [
+      56.09725,
+      35.8798
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУОА - Alfer'yevo - ЭА",
+    "name": "АЛФЕРЬЕВО"
+  },
+  {
+    "id": "4435",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB3C",
+    "position": [
+      55.796533333333,
+      36.291483333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ3Ц - Parus - АОН",
+    "name": "ПАРУС"
+  },
+  {
+    "id": "10278",
+    "type": "AD",
+    "isValid": false,
+    "index": "UUCN",
+    "position": [
+      56.097097222222,
+      36.554991666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦН - Nudol' - АОН",
+    "name": "НУДОЛЬ"
+  },
+  {
+    "id": "272",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUWE",
+    "position": [
+      55.2289333,
+      36.6081333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУВЕ - Ermolino - МВД",
+    "name": "ЕРМОЛИНО"
+  },
+  {
+    "id": "145",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA1S",
+    "position": [
+      54.9074333,
+      36.9870667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА1С - Bor - ГА",
+    "name": "БОР"
+  },
+  {
+    "id": "1012",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMS",
+    "position": [
+      54.8729833,
+      37.26525
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМС - Serpukhov (Drakino) - ДОСААФ",
+    "name": "ДРАКИНО"
+  },
+  {
+    "id": "537",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMB",
+    "position": [
+      55.6114833,
+      36.6477333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУМБ - Kubinka - МО",
+    "name": "КУБИНКА"
+  },
+  {
+    "id": "10235",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZF7Y",
+    "position": [
+      56.1313,
+      36.714094444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ7Ы - Shchekino - АОН",
+    "name": "ЩЕКИНО"
+  },
+  {
+    "id": "1039",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZF28",
+    "position": [
+      56.103083333333,
+      36.801638888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ28 - Shevlino - АОН",
+    "name": "ШЕВЛИНО"
+  },
+  {
+    "id": "1327",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMW",
+    "position": [
+      55.0687,
+      37.4537333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМВ - Volosovo - ДОСААФ",
+    "name": "ВОЛОСОВО"
+  },
+  {
+    "id": "814",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMO",
+    "position": [
+      55.5077333,
+      37.50635
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУМО - Moskva (Ostaf'yevo) - МО",
+    "name": "ОСТАФЬЕВО"
+  },
+  {
+    "id": "738",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUDN",
+    "position": [
+      54.978533333333,
+      37.65745
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУДН - Novinki - АОН",
+    "name": "НОВИНКИ"
+  },
+  {
+    "id": "1761",
+    "type": "AD",
+    "isValid": true,
+    "index": "HA5S",
+    "position": [
+      54.87635,
+      37.848066666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ХА5С - Turovo - АОН",
+    "name": "ТУРОВО"
+  },
+  {
+    "id": "1186",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUCT",
+    "position": [
+      55.066616666667,
+      37.883333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦТ - Torbeyevo - АОН",
+    "name": "ТОРБЕЕВО"
+  },
+  {
+    "id": "933",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAG2",
+    "position": [
+      55.295783333333,
+      37.791966666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАГ2 - Shebantsevo - ГА",
+    "name": "ШЕБАНЦЕВО"
+  },
+  {
+    "id": "10597",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZF94",
+    "position": [
+      55.43705,
+      37.626688888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ94 - Paradrom Pokrov - АОН",
+    "name": "ПАРАДРОМ ПОКРОВ"
+  },
+  {
+    "id": "1268",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAV3",
+    "position": [
+      55.28685,
+      37.9419
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАЖ3 - Uvarovo - ГА",
+    "name": "УВАРОВО"
+  },
+  {
+    "id": "233",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUDD",
+    "position": [
+      55.4083167,
+      37.9066667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУДД - Moskva (Domodedovo) - ГА",
+    "name": "ДОМОДЕДОВО"
+  },
+  {
+    "id": "1314",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUWW",
+    "position": [
+      55.6,
+      37.2733333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУВВ - Moskva (Vnukovo) - ГА",
+    "name": "ВНУКОВО"
+  },
+  {
+    "id": "1214",
+    "type": "AD",
+    "isValid": false,
+    "index": "UUUS",
+    "position": [
+      55.817333333333,
+      37.4258
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУУС - Moskva (Tushino) - ГА",
+    "name": "ТУШИНО"
+  },
+  {
+    "id": "1038",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUEE",
+    "position": [
+      55.9724,
+      37.41305
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУЕЕ - Moskva (Sheremet'evo) - ГА",
+    "name": "ШЕРЕМЕТЬЕВО"
+  },
+  {
+    "id": "4437",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZB3E",
+    "position": [
+      56.23395,
+      37.554916666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ3Е - Batyushkovo - АОН",
+    "name": "БАТЮШКОВО"
+  },
+  {
+    "id": "1118",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMI",
+    "position": [
+      54.8894,
+      38.147033333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМИ - Stupino - МО",
+    "name": "СТУПИНО"
+  },
+  {
+    "id": "629",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMM",
+    "position": [
+      55.08475,
+      38.1469
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУММ - Malino - ДОСААФ",
+    "name": "МАЛИНО"
+  },
+  {
+    "id": "1401",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB0E",
+    "position": [
+      55.07305,
+      38.2744333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ0Е - Zayach'ya Polyana - АОН",
+    "name": "ЗАЯЧЬЯ ПОЛЯНА"
+  },
+  {
+    "id": "158",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA1Z",
+    "position": [
+      55.4216666,
+      38.2283334
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА1З - Bronnitsy - ГА",
+    "name": "БРОННИЦЫ"
+  },
+  {
+    "id": "3724",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB34",
+    "position": [
+      55.42475,
+      38.30205
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ34 - Bronnitsy (Fedino) - АОН",
+    "name": "ФЕДИНО"
+  },
+  {
+    "id": "7596",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZE1Z",
+    "position": [
+      55.032333333333,
+      38.573033333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕ1З - Biorki - АОН",
+    "name": "БИОРКИ"
+  },
+  {
+    "id": "1878",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB13",
+    "position": [
+      55.080466666667,
+      38.63275
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ13 - Panovo - АОН",
+    "name": "ПАНОВО"
+  },
+  {
+    "id": "4436",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZB3D",
+    "position": [
+      55.2702833,
+      38.4273833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ3Д - Lystsevo - АОН",
+    "name": "ЛЫСЦЕВО"
+  },
+  {
+    "id": "681",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZA8G",
+    "position": [
+      55.380716666667,
+      38.37195
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА8Г - Morozovo - ГА",
+    "name": "МОРОЗОВО"
+  },
+  {
+    "id": "1334",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMV",
+    "position": [
+      55.308016666667,
+      38.596983333333
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУМЖ - Voskresensk - АОН",
+    "name": "ВОСКРЕСЕНСК"
+  },
+  {
+    "id": "695",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUBM",
+    "position": [
+      55.560733333333,
+      37.983616666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУБМ - Miachkovo - ГА",
+    "name": "МЯЧКОВО"
+  },
+  {
+    "id": "180",
+    "type": "AD",
+    "isValid": false,
+    "index": "UUBB",
+    "position": [
+      55.61685,
+      38.0611333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУББ - Moskva (Bykovo) - ГА",
+    "name": "БЫКОВО"
+  },
+  {
+    "id": "201",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMH",
+    "position": [
+      55.7603,
+      38.063566666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМХ - Chernoye - ДОСААФ",
+    "name": "ЧЕРНОЕ"
+  },
+  {
+    "id": "210",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMU",
+    "position": [
+      55.8789167,
+      38.0622333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУМУ - Chkalovskiy - МО",
+    "name": "ЧКАЛОВСКИЙ"
+  },
+  {
+    "id": "925",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUBW",
+    "position": [
+      55.55285,
+      38.1498
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": true,
+    "title": "УУБВ - Zhukovskiy - ЭА",
+    "name": "РАМЕНСКОЕ"
+  },
+  {
+    "id": "680",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA8F",
+    "position": [
+      55.83735,
+      38.1691833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА8Ф - Monino - МО",
+    "name": "МОНИНО"
+  },
+  {
+    "id": "1304",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUCW",
+    "position": [
+      56.240427777778,
+      38.159872222222
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦВ - Vikhrevo - АОН",
+    "name": "ВИХРЕВО"
+  },
+  {
+    "id": "202",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMC",
+    "position": [
+      56.022825,
+      38.328027777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУМЦ - Chernogolovka - АОН",
+    "name": "ЧЕРНОГОЛОВКА"
+  },
+  {
+    "id": "6711",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUCI",
+    "position": [
+      54.928083333333,
+      38.811866666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦИ - Il'yasovo - АОН",
+    "name": "ИЛЬЯСОВО"
+  },
+  {
+    "id": "1010",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAJ4",
+    "position": [
+      55.10195,
+      38.872816666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАЙ4 - Sergiyevskoye - ГА",
+    "name": "СЕРГИЕВСКОЕ"
+  },
+  {
+    "id": "472",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMK",
+    "position": [
+      55.092922222222,
+      38.92275
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМК - Kolomna (Korobcheyevo) - ДОСААФ",
+    "name": "КОРОБЧЕЕВО"
+  },
+  {
+    "id": "1014",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUML",
+    "position": [
+      55.206516666667,
+      38.679033333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУМЛ - Severka - АОН",
+    "name": "СЕВЕРКА"
+  },
+  {
+    "id": "1315",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZAX7",
+    "position": [
+      55.458516666667,
+      38.91125
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗАЬ7 - Vnukovskaya - ГА",
+    "name": "ВНУКОВСКАЯ"
+  },
+  {
+    "id": "10592",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZF93",
+    "position": [
+      54.862052777778,
+      39.037877777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ93 - Klement'yevo - АОН",
+    "name": "КЛЕМЕНТЬЕВО"
+  },
+  {
+    "id": "611",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMT",
+    "position": [
+      54.9052,
+      39.027033333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМТ - Lukhovitsy (Tret'yakovo) - ЭА",
+    "name": "ТРЕТЬЯКОВО"
+  },
+  {
+    "id": "1000",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUMD",
+    "position": [
+      55.1297833,
+      39.1457333
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУМД - Sel'nikovo - АОН",
+    "name": "СЕЛЬНИКОВО"
+  },
+  {
+    "id": "8274",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZEJ0",
+    "position": [
+      54.923433333333,
+      39.225766666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕЙ0 - Vrachovo-Gorki - ГА",
+    "name": "ВРАЧОВО-ГОРКИ"
+  },
+  {
+    "id": "100",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUCB",
+    "position": [
+      54.95205,
+      39.2967
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦБ - Beloomut - АОН",
+    "name": "БЕЛООМУТ"
+  },
+  {
+    "id": "249",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMG",
+    "position": [
+      55.458666666667,
+      39.03575
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМГ - Egor'evsk (Shuvoye) - ДОСААФ",
+    "name": "ШУВОЕ"
+  },
+  {
+    "id": "454",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMV",
+    "position": [
+      56.15645,
+      38.829766666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМЖ - Kirzhach - ЭА",
+    "name": "КИРЖАЧ"
+  },
+  {
+    "id": "646",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA80",
+    "position": [
+      55.906466666667,
+      39.234
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА80 - Marochkovo - ГА",
+    "name": "МАРОЧКОВО"
+  },
+  {
+    "id": "1003",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUWS",
+    "position": [
+      54.924,
+      39.63905
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУВС - Sel'tsy - МО",
+    "name": "СЕЛЬЦЫ"
+  },
+  {
+    "id": "1361",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUCQ",
+    "position": [
+      55.20635,
+      39.418266666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУЦЯ - Yanino - АОН",
+    "name": "ЯНИНО"
+  },
+  {
+    "id": "5977",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZCH3",
+    "position": [
+      55.304966666667,
+      39.82725
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦХ3 - Dmitrovsky Pogost - ГА",
+    "name": "ДМИТРОВСКИЙ ПОГОСТ"
+  },
+  {
+    "id": "2204",
+    "type": "AD",
+    "isValid": false,
+    "index": "H201",
+    "position": [
+      55.564405555556,
+      39.705761111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "Х201 - Krivandino - ГА",
+    "name": "КРИВАНДИНО"
+  },
+  {
+    "id": "4430",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB3A",
+    "position": [
+      55.898566666667,
+      39.8583
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ3А - Tsepelevo - АОН",
+    "name": "ЦЕПЕЛЕВО"
+  },
+  {
+    "id": "9499",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZF34",
+    "position": [
+      56.19018,
+      39.74258
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ34 - Cherkutino - ГА",
+    "name": "ЧЕРКУТИНО"
+  },
+  {
+    "id": "9518",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZF3E",
+    "position": [
+      55.1962,
+      40.3366
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗФ3Е - Munoch' - ГА",
+    "name": "МУНОЧЬ"
+  },
+  {
+    "id": "6799",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZD7P",
+    "position": [
+      56.042383333333,
+      40.117333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗД7П - Vorsha - МО",
+    "name": "ВОРША"
+  },
+  {
+    "id": "1311",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUBL",
+    "position": [
+      56.1274333,
+      40.3151
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-green-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУБЛ - Vladimir (Semyazino) - ГА",
+    "name": "СЕМЯЗИНО"
+  },
+  {
+    "id": "647",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA81",
+    "position": [
+      56.1923667,
+      40.3147333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА81 - Maslenka - ГА",
+    "name": "МАСЛЕНКА"
+  },
+  {
+    "id": "7787",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUIS",
+    "position": [
+      56.1815,
+      40.329933333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУИС - Snovitsy - АОН",
+    "name": "СНОВИЦЫ"
+  },
+  {
+    "id": "231",
+    "type": "AD",
+    "isValid": false,
+    "index": "XUDD",
+    "position": [
+      56.249916666667,
+      40.59125
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУДД - Dobrynskoye - МЧС",
+    "name": "ДОБРЫНСКОЕ"
+  },
+  {
+    "id": "1876",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZB11",
+    "position": [
+      56.051122222222,
+      40.757875
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ11 - Sukhovka - АОН",
+    "name": "СУХОВКА"
+  },
+  {
+    "id": "400",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA52",
+    "position": [
+      54.93175,
+      41.423783333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА52 - Kasimov - ",
+    "name": "КАСИМОВ"
+  },
+  {
+    "id": "5201",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZC2F",
+    "position": [
+      55.89768,
+      40.88851
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦ2Ф - Stepanovo - АОН",
+    "name": "СТЕПАНОВО"
+  },
+  {
+    "id": "5951",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZCG3",
+    "position": [
+      55.704583333333,
+      40.962466666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦГ3 - Semenovka - ГА",
+    "name": "СЕМЕНОВКА"
+  },
+  {
+    "id": "1926",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUIG",
+    "position": [
+      56.2366,
+      41.23545
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУИГ - Aerodrom Dobrograd - АОН",
+    "name": "АЭРОДРОМ ДОБРОГРАД"
+  },
+  {
+    "id": "5652",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZC78",
+    "position": [
+      55.0388,
+      41.5859167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦ78 - Koverskoye - ГА",
+    "name": "КОВЕРСКОЕ"
+  },
+  {
+    "id": "1957",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB2F",
+    "position": [
+      54.959025,
+      41.729627777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ2Ф - Elat'ma - ГА",
+    "name": "ЕЛАТЬМА"
+  },
+  {
+    "id": "1905",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZB1M",
+    "position": [
+      55.534833333333,
+      41.4927
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗБ1М - Butylitcy - ГА",
+    "name": "БУТЫЛИЦЫ"
+  },
+  {
+    "id": "8127",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZEB6",
+    "position": [
+      55.23167,
+      41.7827
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕБ6 - Kononovo - ГА",
+    "name": "КОНОНОВО"
+  },
+  {
+    "id": "5944",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZCF6",
+    "position": [
+      55.7414,
+      41.5291833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦФ6 - Yuromka - ГА",
+    "name": "ЮРОМКА"
+  },
+  {
+    "id": "712",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZA8R",
+    "position": [
+      55.750383333333,
+      41.556316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА8Р - Neklyudovo - ГА",
+    "name": "НЕКЛЮДОВО"
+  },
+  {
+    "id": "5653",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZC79",
+    "position": [
+      55.8825833,
+      41.7268167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦ79 - Selivanovo - ГА",
+    "name": "СЕЛИВАНОВО"
+  },
+  {
+    "id": "8128",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZEB7",
+    "position": [
+      55.59685,
+      41.98935
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕБ7 - Murom - ГА",
+    "name": "МУРОМ"
+  },
+  {
+    "id": "5190",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZC2A",
+    "position": [
+      55.7061833,
+      41.9744167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЦ2А - Petrakovo - ГА",
+    "name": "ПЕТРАКОВО"
+  },
+  {
+    "id": "956",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUER",
+    "position": [
+      56.2599833,
+      34.4084333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-red-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУЕР - Rzhev - МО",
+    "name": "РЖЕВ"
+  },
+  {
+    "id": "8009",
+    "type": "AD",
+    "isValid": true,
+    "index": "XUMJ",
+    "position": [
+      56.276636111111,
+      38.923530555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-orange-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЬУМЙ - Slobodka - ДОСААФ",
+    "name": "СЛОБОДКА"
+  },
+  {
+    "id": "469",
+    "type": "AD",
+    "isValid": true,
+    "index": "ZA5N",
+    "position": [
+      56.282566666667,
+      39.471533333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗА5Н - Kol'chugino - АОН",
+    "name": "КОЛЬЧУГИНО"
+  },
+  {
+    "id": "7813",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZE5S",
+    "position": [
+      56.296733333333,
+      40.1577
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗЕ5С - Stariy dvor - ГА",
+    "name": "СТАРЫЙ ДВОР"
+  },
+  {
+    "id": "4431",
+    "type": "AD",
+    "isValid": true,
+    "index": "UUIP",
+    "position": [
+      56.3107333,
+      40.4818167
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "ls-blue-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "УУИП - Pavlovskoye - АОН",
+    "name": "ПАВЛОВСКОЕ"
+  },
+  {
+    "id": "6297",
+    "type": "AD",
+    "isValid": false,
+    "index": "ZD17",
+    "position": [
+      56.254816666667,
+      40.81145
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "ls-gray-24.png",
+      "size": 20
+    },
+    "isInternational": false,
+    "title": "ЗД17 - Vtorovo - ГА",
+    "name": "ВТОРОВО"
+  }
+]

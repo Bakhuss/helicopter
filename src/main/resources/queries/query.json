@@ -1,0 +1,9802 @@
+[
+  {
+    "id": "10053",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH7T",
+    "position": [
+      56.073566666667,
+      27.945166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ7Т - Saveyki - ФСБ",
+    "name": "САВЕЙКИ"
+  },
+  {
+    "id": "7523",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMQP",
+    "position": [
+      55.53464,
+      28.79052
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМЯП - Borovukha-2 - МО",
+    "name": "БОРОВУХА-2"
+  },
+  {
+    "id": "1467",
+    "type": "HD",
+    "isValid": true,
+    "index": "H118",
+    "position": [
+      56.237833333333,
+      28.29745
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х118 - Dedino - ФСБ",
+    "name": "ДЕДИНО"
+  },
+  {
+    "id": "2594",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMXG",
+    "position": [
+      55.5039667,
+      28.9014167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМЬГ - Trosnitsa - МО",
+    "name": "ТРОСНИЦА"
+  },
+  {
+    "id": "2562",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMHC",
+    "position": [
+      55.2933333,
+      29.0906
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМХЦ - Sludoshi - МО",
+    "name": "СЛУДОШИ"
+  },
+  {
+    "id": "2595",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMXD",
+    "position": [
+      55.2186667,
+      29.2500667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМЬД - Ulla - МО",
+    "name": "УЛЛА"
+  },
+  {
+    "id": "2210",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMQE",
+    "position": [
+      55.6211333,
+      29.2084833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМЯЕ - Dretun - МО",
+    "name": "ДРЕТУНЬ"
+  },
+  {
+    "id": "6323",
+    "type": "HD",
+    "isValid": true,
+    "index": "XMQA",
+    "position": [
+      55.590315,
+      29.263415
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМЯА - Abashina ploschadka 74 - МО",
+    "name": "АБАШИНА ПЛОЩАДКА №74"
+  },
+  {
+    "id": "2072",
+    "type": "HD",
+    "isValid": false,
+    "index": "H002",
+    "position": [
+      55.591638888889,
+      29.263158333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х002 - Abashina - МО",
+    "name": "АБАШИНА"
+  },
+  {
+    "id": "2280",
+    "type": "HD",
+    "isValid": false,
+    "index": "XMFN",
+    "position": [
+      55.641066666667,
+      29.22085
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬМФН - Kazarmenniy Gorodok - МО",
+    "name": "КАЗАРМЕННЫЙ ГОРОДОК"
+  },
+  {
+    "id": "8317",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEZ7",
+    "position": [
+      55.8468,
+      29.46925
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЗ7 - NPS Nevel' - ГА",
+    "name": "НПС НЕВЕЛЬ"
+  },
+  {
+    "id": "10346",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM6",
+    "position": [
+      55.866375,
+      29.715391666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ6 - Nemerznik - ГА",
+    "name": "НЕМЕРЗНИК"
+  },
+  {
+    "id": "10345",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM5",
+    "position": [
+      55.882722222222,
+      29.786716666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ5 - Reka Yamenka - ГА",
+    "name": "РЕКА ЯМЕНКА"
+  },
+  {
+    "id": "8316",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEZ6",
+    "position": [
+      56.092533333333,
+      30.326883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЗ6 - Lovat' - ГА",
+    "name": "ЛОВАТЬ"
+  },
+  {
+    "id": "8315",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEZ5",
+    "position": [
+      56.158033333333,
+      30.547366666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЗ5 - Shadinino - ГА",
+    "name": "ШАДИНИНО"
+  },
+  {
+    "id": "6857",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDE0",
+    "position": [
+      56.211216666667,
+      30.625
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДЕ0 - NPS Velikiye Luki - ГА",
+    "name": "НПС ВЕЛИКИЕ ЛУКИ"
+  },
+  {
+    "id": "2110",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE5M",
+    "position": [
+      55.59035,
+      31.19635
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ5М - Velizh - ГА",
+    "name": "ВЕЛИЖ"
+  },
+  {
+    "id": "3733",
+    "type": "HD",
+    "isValid": true,
+    "index": "HB5H",
+    "position": [
+      55.700980555556,
+      32.2155
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХБ5Х - Krutik - АОН",
+    "name": "КРУТИК"
+  },
+  {
+    "id": "7077",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDS5",
+    "position": [
+      56.249066666667,
+      32.088166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДС5 - Zapadnaya Dvina (Gorbol'nitsa) - МЧС",
+    "name": "ГОРБОЛЬНИЦА"
+  },
+  {
+    "id": "9778",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0F",
+    "position": [
+      55.191466666667,
+      32.43525
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0Ф - Dukhovshchina - ГА",
+    "name": "ДУХОВЩИНА"
+  },
+  {
+    "id": "5274",
+    "type": "HD",
+    "isValid": true,
+    "index": "HC6B",
+    "position": [
+      55.269044444444,
+      32.751666666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦ6Б - Losevo - ГА",
+    "name": "ЛОСЕВО"
+  },
+  {
+    "id": "5276",
+    "type": "HD",
+    "isValid": true,
+    "index": "HC6C",
+    "position": [
+      55.54985,
+      33.313011111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦ6Ц - Kholm-Zhirkovskaya - ГА",
+    "name": "ХОЛМ-ЖИРКОВСКАЯ"
+  },
+  {
+    "id": "10738",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ65",
+    "position": [
+      55.889419444444,
+      33.719336111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ65 - Dudkino - ГА",
+    "name": "ДУДКИНО"
+  },
+  {
+    "id": "10739",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ66",
+    "position": [
+      55.873069444444,
+      33.729194444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ66 - Istok Dnepra - АОН",
+    "name": "ИСТОК ДНЕПРА"
+  },
+  {
+    "id": "1756",
+    "type": "HD",
+    "isValid": false,
+    "index": "H456",
+    "position": [
+      56.8166667,
+      28
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х456 - TREN'KI - ",
+    "name": "ТРЕНЬКИ"
+  },
+  {
+    "id": "1434",
+    "type": "HD",
+    "isValid": false,
+    "index": "H037",
+    "position": [
+      56.9000833,
+      27.9667333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х037 - Bichi - ФСБ",
+    "name": "БИЧИ"
+  },
+  {
+    "id": "8900",
+    "type": "HD",
+    "isValid": true,
+    "index": "HFN7",
+    "position": [
+      56.3537,
+      28.221316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФН7 - Burachki - ФСБ",
+    "name": "БУРАЧКИ"
+  },
+  {
+    "id": "1439",
+    "type": "HD",
+    "isValid": false,
+    "index": "H045",
+    "position": [
+      56.424466666667,
+      28.279233333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х045 - Borisenki - ",
+    "name": "БОРИСЕНКИ"
+  },
+  {
+    "id": "1685",
+    "type": "HD",
+    "isValid": false,
+    "index": "H663",
+    "position": [
+      56.2659,
+      28.473183333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х663 - Sebezh - ГА",
+    "name": "СЕБЕЖ"
+  },
+  {
+    "id": "1660",
+    "type": "HD",
+    "isValid": false,
+    "index": "H350",
+    "position": [
+      56.7,
+      28.25
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х350 - POKROVSKOE - ",
+    "name": "ПОКРОВСКОЕ"
+  },
+  {
+    "id": "1560",
+    "type": "HD",
+    "isValid": false,
+    "index": "H197",
+    "position": [
+      56.8333334,
+      28.2833333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х197 - KRASNOGOR - ",
+    "name": "КРАСНОГОР"
+  },
+  {
+    "id": "8681",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF81",
+    "position": [
+      56.4505,
+      29.303116666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ81 - Poddub'ye - ГА",
+    "name": "ПОДДУБЬЕ"
+  },
+  {
+    "id": "6558",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD7M",
+    "position": [
+      56.388155555556,
+      30.421
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД7М - Pereslegino - ГА",
+    "name": "ПЕРЕСЛЕГИНО"
+  },
+  {
+    "id": "2524",
+    "type": "HD",
+    "isValid": false,
+    "index": "HE5N",
+    "position": [
+      56.372133333333,
+      30.652433333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ5Н - Velikiye Luki - МО",
+    "name": "ВЕЛИКИЕ ЛУКИ"
+  },
+  {
+    "id": "10344",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM4",
+    "position": [
+      56.254469444444,
+      30.804244444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ4 - Krasnaya Gorka - ГА",
+    "name": "КРАСНАЯ ГОРКА"
+  },
+  {
+    "id": "10343",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM3",
+    "position": [
+      56.264366666667,
+      30.984263888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ3 - Zubovo - ГА",
+    "name": "ЗУБОВО"
+  },
+  {
+    "id": "10342",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM2",
+    "position": [
+      56.386908333333,
+      31.405363888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ2 - Pyatnitskoye - ГА",
+    "name": "ПЯТНИЦКОЕ"
+  },
+  {
+    "id": "10781",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7B",
+    "position": [
+      56.496944444444,
+      31.649922222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7Б - CRB Toropets - МЧС",
+    "name": "ЦРБ ТОРОПЕЦ"
+  },
+  {
+    "id": "6319",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZD1K",
+    "position": [
+      56.33035,
+      31.953233333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗД1К - Derbovezh - АОН",
+    "name": "ДЕРБОВЕЖ"
+  },
+  {
+    "id": "10341",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM1",
+    "position": [
+      56.538233333333,
+      32.173847222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ1 - NPS Andreapol' - ГА",
+    "name": "НПС АНДРЕАПОЛЬ"
+  },
+  {
+    "id": "8061",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEH1",
+    "position": [
+      56.636202777778,
+      32.262563888889
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕХ1 - Andreapol'-NP - АОН",
+    "name": "АНДРЕАПОЛЬ-НП"
+  },
+  {
+    "id": "9141",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG30",
+    "position": [
+      56.676611111111,
+      32.431638888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ30 - Berchikovo - ГА",
+    "name": "БЕРЧИКОВО"
+  },
+  {
+    "id": "1736",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA5F",
+    "position": [
+      56.6855,
+      32.751983333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА5Ф - Sukhodol - АОН",
+    "name": "СУХОДОЛ"
+  },
+  {
+    "id": "8277",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEW5",
+    "position": [
+      56.718102777778,
+      32.890402777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕВ5 - Vetozhetka - ГА",
+    "name": "ВЕТОЖЕТКА"
+  },
+  {
+    "id": "1630",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3O",
+    "position": [
+      56.962866666667,
+      32.652533333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3О - Ozernaya - АОН",
+    "name": "ОЗЕРНАЯ"
+  },
+  {
+    "id": "1626",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA3N",
+    "position": [
+      56.955933333333,
+      32.7119
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3Н - Orlinka - АОН",
+    "name": "ОРЛИНКА"
+  },
+  {
+    "id": "10340",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHM0",
+    "position": [
+      56.734727777778,
+      33.154980555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХМ0 - Kholm - ГА",
+    "name": "ХОЛМ"
+  },
+  {
+    "id": "1455",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA0S",
+    "position": [
+      56.9079,
+      33.247316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА0С - Volgo - ГА",
+    "name": "ВОЛГО"
+  },
+  {
+    "id": "10339",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHL9",
+    "position": [
+      56.75735,
+      33.440094444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЛ9 - Zabegalovo - ГА",
+    "name": "ЗАБЕГАЛОВО"
+  },
+  {
+    "id": "10338",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHL8",
+    "position": [
+      56.772763888889,
+      33.652744444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЛ8 - Volkovo - ГА",
+    "name": "ВОЛКОВО"
+  },
+  {
+    "id": "8321",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF00",
+    "position": [
+      56.777363888889,
+      33.660083333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ00 - Vyshegorod - ГА",
+    "name": "ВЫШЕГОРОД"
+  },
+  {
+    "id": "2618",
+    "type": "HD",
+    "isValid": true,
+    "index": "H859",
+    "position": [
+      55.237438888889,
+      33.916641666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х859 - Yamnovo - АОН",
+    "name": "ЯМНОВО"
+  },
+  {
+    "id": "1793",
+    "type": "HD",
+    "isValid": false,
+    "index": "HE5S",
+    "position": [
+      55.21745,
+      34.1763666
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ5С - Vyaz'ma - ГА",
+    "name": "ВЯЗЬМА"
+  },
+  {
+    "id": "5707",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCM4",
+    "position": [
+      56.022322222222,
+      34.239041666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦМ4 - Varaksino - АОН",
+    "name": "ВАРАКСИНО"
+  },
+  {
+    "id": "6841",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZD8Q",
+    "position": [
+      55.28105,
+      34.488866666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗД8Я - Gorovidka - АОН",
+    "name": "ГОРОВИДКА"
+  },
+  {
+    "id": "9136",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG2Y",
+    "position": [
+      55.880883333333,
+      34.716816666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ2Ы - Vazuza Country Club - АОН",
+    "name": "ВАЗУЗА КАНТРИ КЛАБ"
+  },
+  {
+    "id": "9233",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTY",
+    "position": [
+      56.18935,
+      34.640647222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТЫ - Yurkino - АОН",
+    "name": "ЮРКИНО"
+  },
+  {
+    "id": "6325",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTW",
+    "position": [
+      56.204697222222,
+      34.666619444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТВ - Volga Kantri Klab - АОН",
+    "name": "ВОЛГА КАНТРИ КЛАБ"
+  },
+  {
+    "id": "9865",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH2G",
+    "position": [
+      55.409116666667,
+      35.785983333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ2Г - Mozhaysk - МО",
+    "name": "МОЖАЙСК"
+  },
+  {
+    "id": "9798",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH0X",
+    "position": [
+      55.373366666667,
+      35.857783333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0Ь - Ekorancho Alexeevka - АОН",
+    "name": "ЭКОРАНЧО АЛЕКСЕЕВКА"
+  },
+  {
+    "id": "8294",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEX9",
+    "position": [
+      55.520433333333,
+      35.82485
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЬ9 - Borodinskiy muzey - ГА",
+    "name": "БОРОДИНСКИЙ МУЗЕЙ"
+  },
+  {
+    "id": "7616",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE65",
+    "position": [
+      56.030233333333,
+      35.808233333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ65 - KS Volokolamskaya - ГА",
+    "name": "КС ВОЛОКОЛАМСКАЯ"
+  },
+  {
+    "id": "9290",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG5J",
+    "position": [
+      55.486769444444,
+      35.989152777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ5Й - Krasniy Baltiets - ГА",
+    "name": "КРАСНЫЙ БАЛТИЕЦ"
+  },
+  {
+    "id": "2155",
+    "type": "HD",
+    "isValid": true,
+    "index": "H147",
+    "position": [
+      55.604605555556,
+      35.912772222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х147 - Zbyshki - МО",
+    "name": "ЗБЫШКИ"
+  },
+  {
+    "id": "8239",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEU7",
+    "position": [
+      55.74925,
+      36.228997222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕУ7 - Tablovo (Lukomor'ye) - АОН",
+    "name": "ЛУКОМОРЬЕ"
+  },
+  {
+    "id": "9260",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG4Y",
+    "position": [
+      55.994838888889,
+      36.267108333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ4Ы - Shelud'kovo - АОН",
+    "name": "ШЕЛУДЬКОВО"
+  },
+  {
+    "id": "10586",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ2Q",
+    "position": [
+      56.001869444444,
+      36.433983333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ2Я - Osen' - АОН",
+    "name": "ОСЕНЬ"
+  },
+  {
+    "id": "9409",
+    "type": "HD",
+    "isValid": false,
+    "index": "HG8R",
+    "position": [
+      56.133436111111,
+      36.496277777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8Р - Izumrudniy Les - АОН",
+    "name": "ИЗУМРУДНЫЙ ЛЕС"
+  },
+  {
+    "id": "10390",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTF",
+    "position": [
+      56.135583333333,
+      36.4976
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТФ - Sersbryaniy Bor - АОН",
+    "name": "СЕРЕБРЯНЫЙ БОР"
+  },
+  {
+    "id": "10107",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH93",
+    "position": [
+      55.211577777778,
+      36.619963888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ93 - Ermolino (Aviazapchast') - АОН",
+    "name": "АВИАЗАПЧАСТЬ"
+  },
+  {
+    "id": "1611",
+    "type": "HD",
+    "isValid": true,
+    "index": "H281",
+    "position": [
+      55.405516666667,
+      36.7292
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х281 - Naro-Fominsk - МО",
+    "name": "НАРО-ФОМИНСК"
+  },
+  {
+    "id": "10305",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH7",
+    "position": [
+      55.417244444444,
+      36.862638888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ7 - Kievskiy - МЧС",
+    "name": "КИЕВСКИЙ"
+  },
+  {
+    "id": "10304",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH6",
+    "position": [
+      55.180302777778,
+      37.041086111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ6 - Il'ino - МЧС",
+    "name": "ИЛЬИНО"
+  },
+  {
+    "id": "10303",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH5",
+    "position": [
+      55.236372222222,
+      37.014505555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ5 - Vasyunino - МЧС",
+    "name": "ВАСЮНИНО"
+  },
+  {
+    "id": "10309",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ0",
+    "position": [
+      55.220161111111,
+      37.070080555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ0 - Rogovo - МЧС",
+    "name": "РОГОВО"
+  },
+  {
+    "id": "10301",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH3",
+    "position": [
+      55.406575,
+      36.914708333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ3 - Arkhangel'skoye - МЧС",
+    "name": "АРХАНГЕЛЬСКОЕ"
+  },
+  {
+    "id": "10312",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ3",
+    "position": [
+      55.464130555556,
+      36.946341666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ3 - Yakovlevskoye - МЧС",
+    "name": "ЯКОВЛЕВСКОЕ"
+  },
+  {
+    "id": "10108",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH94",
+    "position": [
+      55.544288888889,
+      36.924858333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ94 - Poligon - МО",
+    "name": "ПОЛИГОН"
+  },
+  {
+    "id": "1741",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA5H",
+    "position": [
+      55.4988833,
+      36.9853834
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА5Х - Tabachnikovo - ",
+    "name": "ТАБАЧНИКОВО"
+  },
+  {
+    "id": "1409",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUMA",
+    "position": [
+      55.534291666667,
+      36.959291666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУМА - Alabino - МО",
+    "name": "АЛАБИНО"
+  },
+  {
+    "id": "10302",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH4",
+    "position": [
+      55.410455555556,
+      37.015058333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ4 - Belousovo - МЧС",
+    "name": "БЕЛОУСОВО"
+  },
+  {
+    "id": "8399",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF26",
+    "position": [
+      55.479833333333,
+      37.006133333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ26 - Glagolevo - АОН",
+    "name": "ГЛАГОЛЕВО"
+  },
+  {
+    "id": "9771",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH08",
+    "position": [
+      55.277916666667,
+      37.123866666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ08 - Kresty - АОН",
+    "name": "КРЕСТЫ"
+  },
+  {
+    "id": "1803",
+    "type": "HD",
+    "isValid": false,
+    "index": "H721",
+    "position": [
+      55.32824,
+      37.10743
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х721 - Yur'yevka - АОН",
+    "name": "ЮРЬЕВКА"
+  },
+  {
+    "id": "10313",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ4",
+    "position": [
+      55.319227777778,
+      37.186505555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ4 - Voronovo - МЧС",
+    "name": "ВОРОНОВО"
+  },
+  {
+    "id": "10295",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHG7",
+    "position": [
+      55.403244444444,
+      37.120344444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХГ7 - Yartsevo - МЧС",
+    "name": "ЯРЦЕВО"
+  },
+  {
+    "id": "10282",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWL",
+    "position": [
+      55.425355555556,
+      37.129902777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВЛ - Luzhki - АОН",
+    "name": "ЛУЖКИ"
+  },
+  {
+    "id": "10317",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ8",
+    "position": [
+      55.531963888889,
+      37.133608333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ8 - Nastas'ino - МЧС",
+    "name": "НАСТАСЬИНО"
+  },
+  {
+    "id": "9770",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH07",
+    "position": [
+      55.542783333333,
+      37.139716666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ07 - Novo-Nikol'skoye - АОН",
+    "name": "НОВО-НИКОЛЬСКОЕ"
+  },
+  {
+    "id": "10281",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHF4",
+    "position": [
+      55.420391666667,
+      37.178583333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХФ4 - Konakovo - МЧС",
+    "name": "КОНАКОВО"
+  },
+  {
+    "id": "1702",
+    "type": "HD",
+    "isValid": false,
+    "index": "UUWQ",
+    "position": [
+      55.416566666667,
+      37.189316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВЯ - Shishkin Les - АОН",
+    "name": "ШИШКИН ЛЕС"
+  },
+  {
+    "id": "7309",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZDQ9",
+    "position": [
+      55.401325,
+      37.222072222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗДЯ9 - Kaluzhka - АОН",
+    "name": "КАЛУЖКА"
+  },
+  {
+    "id": "7084",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWJ",
+    "position": [
+      55.530352777778,
+      37.191775
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВЙ - Imperia - АОН",
+    "name": "ИМПЕРИЯ"
+  },
+  {
+    "id": "10318",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ9",
+    "position": [
+      55.527588888889,
+      37.215388888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ9 - Ptichnoye - МЧС",
+    "name": "ПТИЧНОЕ"
+  },
+  {
+    "id": "6208",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD1Y",
+    "position": [
+      55.463566666667,
+      37.237216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД1Ы - Krasnaya Pakhra - МО",
+    "name": "КРАСНАЯ ПАХРА"
+  },
+  {
+    "id": "1758",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA5Q",
+    "position": [
+      55.513269444444,
+      37.238388888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА5Я - Popovka - МЧС",
+    "name": "ПОПОВКА"
+  },
+  {
+    "id": "3721",
+    "type": "HD",
+    "isValid": true,
+    "index": "HB5A",
+    "position": [
+      55.574841666667,
+      36.573811111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХБ5А - Polushkino - АОН",
+    "name": "ПОЛУШКИНО"
+  },
+  {
+    "id": "9192",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG3B",
+    "position": [
+      55.560388888889,
+      36.7944
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ3Б - Park Patriot-3 - МО",
+    "name": "ПАРК ПАТРИОТ-3"
+  },
+  {
+    "id": "10105",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH91",
+    "position": [
+      55.571069444444,
+      36.828277777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ91 - Park Patriot-2 - МО",
+    "name": "ПАРК ПАТРИОТ-2"
+  },
+  {
+    "id": "9707",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGV6",
+    "position": [
+      55.57555,
+      36.833175
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЖ6 - Park Patriot-1 - МО",
+    "name": "ПАРК ПАТРИОТ-1"
+  },
+  {
+    "id": "1421",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA0A",
+    "position": [
+      55.577116666667,
+      36.888
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА0А - Golitsyno (Astra) - АОН",
+    "name": "АСТРА"
+  },
+  {
+    "id": "10285",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHF8",
+    "position": [
+      55.713383333333,
+      36.867066666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХФ8 - Shtab CKAD - АОН",
+    "name": "ШТАБ ЦКАД"
+  },
+  {
+    "id": "10414",
+    "type": "HD",
+    "isValid": false,
+    "index": "HHT8",
+    "position": [
+      55.660241666667,
+      36.896902777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХТ8 - Raevo - АОН",
+    "name": "РАЕВО"
+  },
+  {
+    "id": "1447",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUMR",
+    "position": [
+      55.881227777778,
+      36.809613888889
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУМР - Bun'kovo - АОН",
+    "name": "БУНЬКОВО"
+  },
+  {
+    "id": "10044",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH7N",
+    "position": [
+      56.209861111111,
+      36.570166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ7Н - Kuznechkovo - АОН",
+    "name": "КУЗНЕЧКОВО"
+  },
+  {
+    "id": "1619",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3H",
+    "position": [
+      55.998677777778,
+      36.846786111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3Х - Novorakovka - АОН",
+    "name": "НОВОРАКОВКА"
+  },
+  {
+    "id": "10849",
+    "type": "HD",
+    "isValid": false,
+    "index": "HJ93",
+    "position": [
+      56.046,
+      36.856483333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ93 - Mechta - АОН",
+    "name": "МЕЧТА"
+  },
+  {
+    "id": "10850",
+    "type": "HD",
+    "isValid": false,
+    "index": "HJ94",
+    "position": [
+      56.046569444444,
+      36.860630555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ94 - Mechta-1 - АОН",
+    "name": "МЕЧТА-1"
+  },
+  {
+    "id": "7860",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE98",
+    "position": [
+      56.049133333333,
+      36.871777777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ98 - Lopotovo - АОН",
+    "name": "ЛОПОТОВО"
+  },
+  {
+    "id": "1530",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEN5",
+    "position": [
+      55.554933333333,
+      36.956483333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕН5 - Kalininets - МО",
+    "name": "КАЛИНИНЕЦ"
+  },
+  {
+    "id": "1524",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA21",
+    "position": [
+      55.7217833,
+      36.9836667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА21 - Islavskoye - АОН",
+    "name": "ИСЛАВСКОЕ"
+  },
+  {
+    "id": "9782",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0K",
+    "position": [
+      55.707752777778,
+      37.008994444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0К - MKZ - АОН",
+    "name": "МКЗ"
+  },
+  {
+    "id": "6345",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3Q",
+    "position": [
+      55.713261111111,
+      37.033236111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3Я - Gorki-10 - ГА",
+    "name": "ГОРКИ-10"
+  },
+  {
+    "id": "9520",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGC8",
+    "position": [
+      55.704538888889,
+      37.054322222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЦ8 - Molodenovo-4 - АОН",
+    "name": "МОЛОДЕНОВО-4"
+  },
+  {
+    "id": "10676",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ4W",
+    "position": [
+      55.778430555556,
+      36.964005555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ4В - Grinfild - АОН",
+    "name": "ГРИНФИЛД"
+  },
+  {
+    "id": "9412",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG8U",
+    "position": [
+      55.766861111111,
+      36.982647222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8У - Laryushino - АОН",
+    "name": "ЛАРЮШИНО"
+  },
+  {
+    "id": "10046",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH7Q",
+    "position": [
+      55.799802777778,
+      36.996013888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ7Я - Agalarov Esteyt - АОН",
+    "name": "АГАЛАРОВ ЭСТЭЙТ"
+  },
+  {
+    "id": "1416",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWY",
+    "position": [
+      55.82035,
+      36.971716666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВЫ - Anosino-2 - АОН",
+    "name": "АНОСИНО-2"
+  },
+  {
+    "id": "10384",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHR0",
+    "position": [
+      55.856433333333,
+      36.985261111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХР0 - Podmoskovnaya sloboda - АОН",
+    "name": "ПОДМОСКОВНАЯ СЛОБОДА"
+  },
+  {
+    "id": "8063",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCK",
+    "position": [
+      55.738638888889,
+      37.002558333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦК - Gorka - ГА",
+    "name": "ГОРКА"
+  },
+  {
+    "id": "1821",
+    "type": "HD",
+    "isValid": true,
+    "index": "H234",
+    "position": [
+      55.751583333333,
+      37.027716666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х234 - Zhukovka - АОН",
+    "name": "ЖУКОВКА"
+  },
+  {
+    "id": "9776",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0D",
+    "position": [
+      55.753036111111,
+      37.061925
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0Д - Maslovo - АОН",
+    "name": "МАСЛОВО"
+  },
+  {
+    "id": "1415",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCX",
+    "position": [
+      55.846394444444,
+      37.004541666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦЬ - Universitet Sberbanka - АОН",
+    "name": "УНИВЕРСИТЕТ СБЕРБАНКА"
+  },
+  {
+    "id": "6133",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD1D",
+    "position": [
+      55.824427777778,
+      37.035297222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД1Д - Knyazh'e Ozero - АОН",
+    "name": "КНЯЖЬЕ ОЗЕРО"
+  },
+  {
+    "id": "8089",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEK1",
+    "position": [
+      55.8182,
+      37.047297222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕК1 - Knyazh'ye Ozero-2 - АОН",
+    "name": "КНЯЖЬЕ ОЗЕРО-2"
+  },
+  {
+    "id": "10314",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ5",
+    "position": [
+      55.582322222222,
+      37.119591666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ5 - Krekshino - МЧС",
+    "name": "КРЕКШИНО"
+  },
+  {
+    "id": "6469",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD6C",
+    "position": [
+      55.5959,
+      37.158166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД6Ц - Kokoshkino - АОН",
+    "name": "КОКО́ШКИНО"
+  },
+  {
+    "id": "8018",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWM",
+    "position": [
+      55.624916666667,
+      37.204766666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВМ - SKM - АОН",
+    "name": "СКМ"
+  },
+  {
+    "id": "6151",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD1Q",
+    "position": [
+      55.578286111111,
+      37.235325
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД1Я - Bol'shoye Pokrovskoye - МЧС",
+    "name": "БОЛЬШОЕ ПОКРОВСКОЕ"
+  },
+  {
+    "id": "10119",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH97",
+    "position": [
+      55.591625,
+      37.235722222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ97 - Heliport Vnukovo-3 - ГА",
+    "name": "ХЕЛИПОРТ ВНУКОВО-3"
+  },
+  {
+    "id": "9395",
+    "type": "HD",
+    "isValid": false,
+    "index": "HG8C",
+    "position": [
+      55.59545,
+      37.241283333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8Ц - Vnukovo (Energiya) - ГА",
+    "name": "ВНУКОВО (ЭНЕРГИЯ)"
+  },
+  {
+    "id": "1785",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA68",
+    "position": [
+      55.680933333333,
+      37.2066
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА68 - Vlasikha - МО",
+    "name": "ВЛАСИХА"
+  },
+  {
+    "id": "1509",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWU",
+    "position": [
+      55.7275167,
+      37.1301
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВУ - Gorki-9 - ФСБ",
+    "name": "ГОРКИ-9"
+  },
+  {
+    "id": "7698",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWZ",
+    "position": [
+      55.735516666667,
+      37.132383333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВЗ - Znamenskoye - АОН",
+    "name": "ЗНАМЕНСКОЕ"
+  },
+  {
+    "id": "2606",
+    "type": "HD",
+    "isValid": false,
+    "index": "H825",
+    "position": [
+      55.751822222222,
+      37.152738888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х825 - Chenter - ГА",
+    "name": "ЧЕНТЕР"
+  },
+  {
+    "id": "10859",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ9C",
+    "position": [
+      55.820711111111,
+      37.143380555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ9Ц - Pavlovo - АОН",
+    "name": "ПАВЛОВО"
+  },
+  {
+    "id": "10837",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ8T",
+    "position": [
+      55.730888888889,
+      37.20185
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ8Т - Novo-Ogaryovo - ФСБ",
+    "name": "НОВО-ОГАРЁВО"
+  },
+  {
+    "id": "1479",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWO",
+    "position": [
+      55.740958333333,
+      37.208408333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВО - Ogaryovo - ФСБ",
+    "name": "ОГАРЁВО"
+  },
+  {
+    "id": "9140",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG2Z",
+    "position": [
+      55.8006,
+      37.209436111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ2З - Nikolo-Uryupino - АОН",
+    "name": "НИКОЛО-УРЮПИНО"
+  },
+  {
+    "id": "9410",
+    "type": "HD",
+    "isValid": false,
+    "index": "HG8S",
+    "position": [
+      55.78845,
+      37.248216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8С - Mikhalkovo - АОН",
+    "name": "МИХАЛКОВО"
+  },
+  {
+    "id": "2454",
+    "type": "HD",
+    "isValid": true,
+    "index": "H489",
+    "position": [
+      55.858016666667,
+      37.209283333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х489 - Nakhabino - АОН",
+    "name": "НАХАБИНО"
+  },
+  {
+    "id": "8011",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEE6",
+    "position": [
+      55.842802777778,
+      37.243322222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЕ6 - Usad'ba Krasnogorskaya - АОН",
+    "name": "УСАДЬБА КРАСНОГОРСКАЯ"
+  },
+  {
+    "id": "1692",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4M",
+    "position": [
+      56.19785,
+      37.038366666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4М - Solnechnogorsk-2 (Senezh) - МО",
+    "name": "СЕНЕЖ"
+  },
+  {
+    "id": "2394",
+    "type": "HD",
+    "isValid": true,
+    "index": "H410",
+    "position": [
+      56.206008333333,
+      37.068769444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х410 - Solnechnogorsk (Voenniy gorodok 52/2) - МО",
+    "name": "ВОЕННЫЙ ГОРОДОК 52/2"
+  },
+  {
+    "id": "10400",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHS6",
+    "position": [
+      55.946802777778,
+      37.177594444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХС6 - Noviy Zelenograd - АОН",
+    "name": "НОВЫЙ ЗЕЛЕНОГРАД"
+  },
+  {
+    "id": "8065",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEH5",
+    "position": [
+      56.011575,
+      37.161880555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕХ5 - Zelenograd-Severniy - АОН",
+    "name": "ЗЕЛЕНОГРАД-СЕВЕРНЫЙ"
+  },
+  {
+    "id": "10791",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7L",
+    "position": [
+      55.9314,
+      37.201252777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7Л - Ruzino - АОН",
+    "name": "РУЗИНО"
+  },
+  {
+    "id": "10106",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH92",
+    "position": [
+      55.926513888889,
+      37.233338888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ92 - Kinogorod - АОН",
+    "name": "КИНОГОРОД"
+  },
+  {
+    "id": "7079",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDS7",
+    "position": [
+      55.997552777778,
+      37.252061111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДС7 - Novyie Rzhavki - АОН",
+    "name": "НОВЫЕ РЖАВКИ"
+  },
+  {
+    "id": "7722",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCS",
+    "position": [
+      55.995605555556,
+      37.262472222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦС - Sapsan - АОН",
+    "name": "САПСАН"
+  },
+  {
+    "id": "7350",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE24",
+    "position": [
+      56.069675,
+      37.241883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ24 - Zhilino - АОН",
+    "name": "ЖИЛИНО"
+  },
+  {
+    "id": "1542",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCH",
+    "position": [
+      56.127025,
+      37.206616666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦХ - Khorugvino - АОН",
+    "name": "ХОРУГВИНО"
+  },
+  {
+    "id": "1588",
+    "type": "HD",
+    "isValid": true,
+    "index": "H720",
+    "position": [
+      55.273669444444,
+      37.2973
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-orange-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х720 - Mavrino - ДОСААФ",
+    "name": "МАВРИНО"
+  },
+  {
+    "id": "10311",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ2",
+    "position": [
+      55.248291666667,
+      37.328238888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ2 - Chernetskoye - МЧС",
+    "name": "ЧЕРНЕЦКОЕ"
+  },
+  {
+    "id": "10306",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH8",
+    "position": [
+      55.329983333333,
+      37.342461111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ8 - Klenovo - МЧС",
+    "name": "КЛЕНОВО"
+  },
+  {
+    "id": "10315",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ6",
+    "position": [
+      55.433594444444,
+      37.300183333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ6 - Krasnoye - МЧС",
+    "name": "КРАСНОЕ"
+  },
+  {
+    "id": "9394",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG8B",
+    "position": [
+      55.37675,
+      37.397722222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8Б - Shchapovo - МЧС",
+    "name": "ЩАПОВО"
+  },
+  {
+    "id": "2071",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA9E",
+    "position": [
+      55.491433333333,
+      37.382966666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА9Е - Vatutinki - АОН",
+    "name": "ВАТУТИНКИ"
+  },
+  {
+    "id": "9825",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH1H",
+    "position": [
+      55.524769444444,
+      37.362747222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ1Х - Stanislavl' - МЧС",
+    "name": "СТАНИСЛАВЛЬ"
+  },
+  {
+    "id": "10316",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ7",
+    "position": [
+      55.492794444444,
+      37.436788888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ7 - Kuvekino - МЧС",
+    "name": "КУВЕКИНО"
+  },
+  {
+    "id": "10533",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ1H",
+    "position": [
+      55.281466666667,
+      37.558208333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ1Х - Radiopole - ГА",
+    "name": "РАДИОПОЛЕ"
+  },
+  {
+    "id": "9733",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY1",
+    "position": [
+      55.303666666667,
+      37.732041666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ1 - Akulinino - АОН",
+    "name": "АКУЛИНИНО"
+  },
+  {
+    "id": "10800",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7V",
+    "position": [
+      55.331111111111,
+      37.711666666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7Ж - Turgenevo - АОН",
+    "name": "ТУРГЕНЕВО"
+  },
+  {
+    "id": "7612",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE62",
+    "position": [
+      55.359094444444,
+      37.728644444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ62 - Gosrezidentsiya Odintsovo - ФСБ",
+    "name": "ГОСРЕЗИДЕНЦИЯ ОДИНЦОВО"
+  },
+  {
+    "id": "7613",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE63",
+    "position": [
+      55.354936111111,
+      37.730386111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ63 - Pansionat Bor - АОН",
+    "name": "ПАНСИОНАТ БОР"
+  },
+  {
+    "id": "9375",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG7W",
+    "position": [
+      55.395191666667,
+      37.637466666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ7В - Chulpanovo - АОН",
+    "name": "ЧУЛПАНОВО"
+  },
+  {
+    "id": "7488",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUDW",
+    "position": [
+      55.387636111111,
+      37.743719444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУДВ - Vzletnaya - АОН",
+    "name": "ВЗЛЕТНАЯ"
+  },
+  {
+    "id": "1637",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3T",
+    "position": [
+      55.479977777778,
+      37.714511111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3Т - Pavlovskoye - АОН",
+    "name": "ПАВЛОВСКОЕ"
+  },
+  {
+    "id": "1819",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA6W",
+    "position": [
+      55.3206,
+      37.922
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА6В - Zhitnyevo - ГА",
+    "name": "ЖИТНЕВО"
+  },
+  {
+    "id": "10725",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ5X",
+    "position": [
+      55.544383333333,
+      37.871755555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ5Ь - Bogdanikha - АОН",
+    "name": "БОГДАНИХА"
+  },
+  {
+    "id": "9740",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY5",
+    "position": [
+      55.453247222222,
+      37.899172222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ5 - Istomikha - АОН",
+    "name": "ИСТОМИХА"
+  },
+  {
+    "id": "8241",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEU8",
+    "position": [
+      55.600258333333,
+      37.324588888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕУ8 - Meshkovo - МЧС",
+    "name": "МЕШКОВО"
+  },
+  {
+    "id": "9235",
+    "type": "HD",
+    "isValid": true,
+    "index": "WB14",
+    "position": [
+      55.686708333333,
+      37.275725
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ВБ14 - Podushkinskoye shosse - АОН",
+    "name": "ПОДУШКИНСКОЕ ШОССЕ"
+  },
+  {
+    "id": "10496",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ0H",
+    "position": [
+      55.668283333333,
+      37.331777777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ0Х - Peredelkino (SKIT) - АОН",
+    "name": "ПЕРЕДЕЛКИНО (СКИТ)"
+  },
+  {
+    "id": "1528",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWB",
+    "position": [
+      55.68275,
+      37.333666666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВБ - Bakovka - АОН",
+    "name": "БАКОВКА"
+  },
+  {
+    "id": "10792",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7M",
+    "position": [
+      55.632133333333,
+      37.43375
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7М - Rumyantsevo - АОН",
+    "name": "РУМЯНЦЕВО"
+  },
+  {
+    "id": "7322",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE23",
+    "position": [
+      55.692266666667,
+      37.381883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ23 - Skolkovo - ГА",
+    "name": "СКОЛКОВО"
+  },
+  {
+    "id": "1503",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUR",
+    "position": [
+      55.722494444444,
+      37.430494444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУР - GKB imeni M.E.Zhadkevicha - МЧС",
+    "name": "ГКБ ИМЕНИ М.Е.ЖАДКЕВИЧА"
+  },
+  {
+    "id": "1427",
+    "type": "HD",
+    "isValid": true,
+    "index": "H576",
+    "position": [
+      55.7596,
+      37.2823833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х576 - Barvikha-3 - ФСБ",
+    "name": "БАРВИХА-3"
+  },
+  {
+    "id": "4855",
+    "type": "HD",
+    "isValid": true,
+    "index": "HC38",
+    "position": [
+      55.766969444444,
+      37.308052777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦ38 - Barvikha - ФСБ",
+    "name": "БАРВИХА"
+  },
+  {
+    "id": "8914",
+    "type": "HD",
+    "isValid": true,
+    "index": "HFP6",
+    "position": [
+      55.804983333333,
+      37.295466666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФП6 - Gospital Vishnevskogo - МО",
+    "name": "ГОСПИТАЛЬ ВИШНЕВСКОГО"
+  },
+  {
+    "id": "8302",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEY5",
+    "position": [
+      55.723027777778,
+      37.322877777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЫ5 - Rublevskiy proezd - МЧС",
+    "name": "РУБЛЕВСКИЙ ПРОЕЗД"
+  },
+  {
+    "id": "10399",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCR",
+    "position": [
+      55.725233333333,
+      37.3327
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦР - Romashkovo - АОН",
+    "name": "РОМАШКОВО"
+  },
+  {
+    "id": "6134",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZCT7",
+    "position": [
+      55.778283333333,
+      37.327
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗЦТ7 - Zakharkovo - АОН",
+    "name": "ЗАХАРКОВО"
+  },
+  {
+    "id": "10697",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ5A",
+    "position": [
+      55.802169444444,
+      37.328638888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ5А - Pavshino (Voenny gorodok) - МО",
+    "name": "ПАВШИНО (ВОЕННЫЙ ГОРОДОК)"
+  },
+  {
+    "id": "10648",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ47",
+    "position": [
+      55.777383333333,
+      37.35395
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ47 - Rublevskoe shosse - АОН",
+    "name": "РУБЛЁВСКОЕ ШОССЕ"
+  },
+  {
+    "id": "7764",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUZ",
+    "position": [
+      55.795811111111,
+      37.355222222222
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУЗ - Heliport-Moscow - АОН",
+    "name": "ХЕЛИПОРТ-МОСКВА"
+  },
+  {
+    "id": "1665",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCP",
+    "position": [
+      55.817933333333,
+      37.381233333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦП - Dom Pravitel'stva Moskovskoy oblasti - ГА",
+    "name": "ДОМ ПРАВИТЕЛЬСТВА МОСКОВСКОЙ ОБЛАСТИ"
+  },
+  {
+    "id": "9627",
+    "type": "HD",
+    "isValid": false,
+    "index": "HGP2",
+    "position": [
+      55.828083333333,
+      37.389616666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГП2 - Krokus-Ekspo-2 - АОН",
+    "name": "КРОКУС-ЭКСПО-2"
+  },
+  {
+    "id": "1598",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA35",
+    "position": [
+      55.8687,
+      37.3728667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА35 - Moskva (Mitino) - АОН",
+    "name": "МИТИНО"
+  },
+  {
+    "id": "2628",
+    "type": "HD",
+    "isValid": true,
+    "index": "H945",
+    "position": [
+      55.886591666667,
+      37.367441666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х945 - Novogorsk - АОН",
+    "name": "НОВОГОРСК"
+  },
+  {
+    "id": "1498",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA1I",
+    "position": [
+      55.851397222222,
+      37.402208333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА1И - Moskva (GDB-7) - МЧС",
+    "name": "ГДБ 7"
+  },
+  {
+    "id": "1762",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUUS",
+    "position": [
+      55.820866666667,
+      37.420066666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-orange-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУУС - Moskva (Tushino) - ДОСААФ",
+    "name": "ТУШИНО"
+  },
+  {
+    "id": "8013",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCU",
+    "position": [
+      55.870375,
+      37.405144444444
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦУ - Grinvud - АОН",
+    "name": "ГРИНВУД"
+  },
+  {
+    "id": "8715",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF90",
+    "position": [
+      55.8955,
+      37.429652777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ90 - Khimki-Plaza - АОН",
+    "name": "ХИМКИ-ПЛАЗА"
+  },
+  {
+    "id": "1725",
+    "type": "HD",
+    "isValid": true,
+    "index": "H416",
+    "position": [
+      55.553497222222,
+      37.442575
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х416 - Sosenki-2 - АОН",
+    "name": "СОСЕНКИ-2"
+  },
+  {
+    "id": "10310",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHJ1",
+    "position": [
+      55.618213888889,
+      37.459558333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЙ1 - Mosrentgen - МЧС",
+    "name": "МОСРЕНТГЕН"
+  },
+  {
+    "id": "8170",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUWR",
+    "position": [
+      55.596341666667,
+      37.503319444444
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУВР - Yasenevo - АОН",
+    "name": "ЯСЕНЕВО"
+  },
+  {
+    "id": "9769",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH06",
+    "position": [
+      55.721786111111,
+      37.459494444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ06 - NCUKS MCS - МЧС",
+    "name": "НЦУКС МЧС"
+  },
+  {
+    "id": "1599",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUY",
+    "position": [
+      55.581802777778,
+      37.572744444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУЫ - MKAD 35-y km - МЧС",
+    "name": "МКАД 35-Й КМ"
+  },
+  {
+    "id": "1414",
+    "type": "HD",
+    "isValid": true,
+    "index": "H031",
+    "position": [
+      55.585652777778,
+      37.5864
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х031 - Annino - МО",
+    "name": "АННИНО"
+  },
+  {
+    "id": "9456",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCY",
+    "position": [
+      55.720141666667,
+      37.536052777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦЫ - Kosygina 32 - АОН",
+    "name": "КОСЫГИНА 32"
+  },
+  {
+    "id": "10569",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ2B",
+    "position": [
+      55.716272222222,
+      37.560111111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ2Б - Luzhniki - ГА",
+    "name": "ЛУЖНИКИ"
+  },
+  {
+    "id": "8308",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEY8",
+    "position": [
+      55.732438888889,
+      37.519505555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЫ8 - Poklonnaya Gora - МВД",
+    "name": "ПОКЛОННАЯ ГОРА"
+  },
+  {
+    "id": "8307",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEY7",
+    "position": [
+      55.733088888889,
+      37.519366666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЫ7 - Park Pobedy - МВД",
+    "name": "ПАРК ПОБЕДЫ"
+  },
+  {
+    "id": "10396",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHS3",
+    "position": [
+      55.781819444444,
+      37.524780555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХС3 - Moskva (GRU) - МО",
+    "name": "ГРУ"
+  },
+  {
+    "id": "9513",
+    "type": "HD",
+    "isValid": false,
+    "index": "HGC5",
+    "position": [
+      55.815466666667,
+      37.44145
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЦ5 - Otkrytiye Arena - АОН",
+    "name": "ОТКРЫТЕ АРЕНА"
+  },
+  {
+    "id": "10789",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7J",
+    "position": [
+      55.744486111111,
+      37.537905555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7Й - Pristan' Kutuzovskaya - АОН",
+    "name": "ПРИСТАНЬ КУТУЗОВСКАЯ"
+  },
+  {
+    "id": "8256",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEV7",
+    "position": [
+      55.745916666667,
+      37.539188888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЖ7 - Moskva-Siti (Prichal) - АОН",
+    "name": "МОСКВА-СИТИ (ПРИЧАЛ)"
+  },
+  {
+    "id": "2122",
+    "type": "HD",
+    "isValid": true,
+    "index": "H091",
+    "position": [
+      55.755488888889,
+      37.539013888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х091 - DGKB 9 - МЧС",
+    "name": "ДГКБ 9"
+  },
+  {
+    "id": "7402",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUV",
+    "position": [
+      55.754483333333,
+      37.572675
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУЖ - Dom pravitel'stva RF - ФСБ",
+    "name": "ДОМ ПРАВИТЕЛЬСТВА РФ"
+  },
+  {
+    "id": "10594",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ2V",
+    "position": [
+      55.781691666667,
+      37.548311111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ2Ж - GKB im. S.P.Botkina - МЧС",
+    "name": "ГКБ ИМ. С.П.БОТКИНА"
+  },
+  {
+    "id": "9773",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0A",
+    "position": [
+      55.726933333333,
+      37.5898
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0А - Frunzenskaya 2 - МО",
+    "name": "ФРУНЗЕНСКАЯ 2"
+  },
+  {
+    "id": "9772",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH09",
+    "position": [
+      55.7284,
+      37.590833333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ09 - Frunzenskaya 1 - МО",
+    "name": "ФРУНЗЕНСКАЯ 1"
+  },
+  {
+    "id": "9774",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0B",
+    "position": [
+      55.728483333333,
+      37.593216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0Б - Frunzenskaya 3 - МО",
+    "name": "ФРУНЗЕНСКАЯ 3"
+  },
+  {
+    "id": "7452",
+    "type": "HD",
+    "isValid": false,
+    "index": "HE3J",
+    "position": [
+      55.75188,
+      37.57987
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ3Й - Noviy Arbat 27 - АОН",
+    "name": "НОВЫЙ АРБАТ 27"
+  },
+  {
+    "id": "7451",
+    "type": "HD",
+    "isValid": false,
+    "index": "HE3H",
+    "position": [
+      55.75335,
+      37.58111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ3Х - Noviy Arbat 32 - АОН",
+    "name": "НОВЫЙ АРБАТ 32"
+  },
+  {
+    "id": "10397",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHS4",
+    "position": [
+      55.769761111111,
+      37.614758333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХС4 - Petrovka 38 - МВД",
+    "name": "ПЕТРОВКА 38"
+  },
+  {
+    "id": "10300",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHH2",
+    "position": [
+      55.833588888889,
+      37.616119444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХХ2 - VDNH - ГА",
+    "name": "ВДНХ"
+  },
+  {
+    "id": "1707",
+    "type": "HD",
+    "isValid": true,
+    "index": "H584",
+    "position": [
+      55.960916666667,
+      37.294336111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х584 - Skhodnya - АОН",
+    "name": "СХОДНЯ"
+  },
+  {
+    "id": "6555",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCG",
+    "position": [
+      55.934866666667,
+      37.315227777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦГ - Golikovo - АОН",
+    "name": "ГОЛИКОВО"
+  },
+  {
+    "id": "2526",
+    "type": "HD",
+    "isValid": true,
+    "index": "H627",
+    "position": [
+      56.06785,
+      37.2758
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х627 - Verevskoye - МО",
+    "name": "ВЕРЕВСКОЕ"
+  },
+  {
+    "id": "9814",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH18",
+    "position": [
+      55.911616666667,
+      37.419033333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ18 - Khimki-North - АОН",
+    "name": "ХИМКИ-СЕВЕР"
+  },
+  {
+    "id": "9741",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY6",
+    "position": [
+      55.95157,
+      37.41573
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ6 - Sheraton - АОН",
+    "name": "ШЕРАТОН"
+  },
+  {
+    "id": "2131",
+    "type": "HD",
+    "isValid": true,
+    "index": "H105",
+    "position": [
+      56.2030167,
+      37.32575
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х105 - Gorki Rogachevskiye - МО",
+    "name": "ГОРКИ РОГАЧЕВСКИЕ"
+  },
+  {
+    "id": "3732",
+    "type": "HD",
+    "isValid": true,
+    "index": "HB5G",
+    "position": [
+      55.948044444444,
+      37.454947222222
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХБ5Г - Ivakino - АОН",
+    "name": "ИВАКИНО"
+  },
+  {
+    "id": "10238",
+    "type": "HD",
+    "isValid": false,
+    "index": "HHB7",
+    "position": [
+      55.970127777778,
+      37.451927777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХБ7 - Industrial'niy park Sheremet'yevo - АОН",
+    "name": "ИНДУСТРИАЛЬНЫЙ ПАРК ШЕРЕМЕТЬЕВО"
+  },
+  {
+    "id": "7475",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE3P",
+    "position": [
+      55.982455555556,
+      37.444008333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ3П - Sheremet'yevo-A - ГА",
+    "name": "ШЕРЕМЕТЬЕВО-А"
+  },
+  {
+    "id": "7765",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE8G",
+    "position": [
+      55.961988888889,
+      37.511480555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ8Г - Yakhtenniy port - АОН",
+    "name": "ЯХТЕННЫЙ ПОРТ"
+  },
+  {
+    "id": "5941",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCY0",
+    "position": [
+      55.978652777778,
+      37.526430555556
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЫ0 - Heliport Burevestnik - АОН",
+    "name": "ХЕЛИПОРТ БУРЕВЕСТНИК"
+  },
+  {
+    "id": "10776",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ76",
+    "position": [
+      56.005786111111,
+      37.512905555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ76 - A.V. Abbakumovo - АОН",
+    "name": "А.В. АББАКУМОВО"
+  },
+  {
+    "id": "6135",
+    "type": "HD",
+    "isValid": false,
+    "index": "ZCT8",
+    "position": [
+      55.98655,
+      37.5215
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗЦТ8 - Yuna Port - АОН",
+    "name": "ЮНА ПОРТ"
+  },
+  {
+    "id": "2189",
+    "type": "HD",
+    "isValid": false,
+    "index": "H183",
+    "position": [
+      55.97065,
+      37.534766666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х183 - Klyaz'ma - АОН",
+    "name": "КЛЯЗЬМА"
+  },
+  {
+    "id": "8684",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF84",
+    "position": [
+      55.980519444444,
+      37.561358333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ84 - Argo - АОН",
+    "name": "АРГО"
+  },
+  {
+    "id": "8714",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF8Z",
+    "position": [
+      55.997897222222,
+      37.570405555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ8З - Syemkino - АОН",
+    "name": "СЕМКИНО"
+  },
+  {
+    "id": "10618",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ3F",
+    "position": [
+      56.245319444444,
+      37.446166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ3Ф - SK Paramonovo - АОН",
+    "name": "СК ПАРАМОНОВО"
+  },
+  {
+    "id": "10617",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ3E",
+    "position": [
+      56.232208333333,
+      37.472572222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ3Е - Otel Tseleevo - АОН",
+    "name": "ОТЕЛЬ ЦЕЛЕЕВО"
+  },
+  {
+    "id": "1704",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4U",
+    "position": [
+      56.2312833,
+      37.4946167
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4У - Shukolovo (GLK Tyagachyeva) - АОН",
+    "name": "ШУКОЛОВО (ГЛК ТЯГАЧЕВА)"
+  },
+  {
+    "id": "1519",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUEQ",
+    "position": [
+      56.163666666667,
+      37.5436
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЕЯ - Gurban - АОН",
+    "name": "ГУРБАН"
+  },
+  {
+    "id": "8280",
+    "type": "HD",
+    "isValid": false,
+    "index": "HEW8",
+    "position": [
+      55.551316666667,
+      37.6681
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕВ8 - Pionerskaya - АОН",
+    "name": "ПИОНЕРСКАЯ"
+  },
+  {
+    "id": "1502",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUB",
+    "position": [
+      55.661525,
+      37.641486111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУБ - GKB imeni S.S.Yudina - МЧС",
+    "name": "ГКБ ИМЕНИ С.С.ЮДИНА"
+  },
+  {
+    "id": "7699",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE7J",
+    "position": [
+      55.598611111111,
+      37.737777777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ7Й - Transturservis - АОН",
+    "name": "ТРАНСТУРСЕРВИС"
+  },
+  {
+    "id": "2040",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUH",
+    "position": [
+      55.737791666667,
+      37.617408333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУХ - NII NDH i T - МЧС",
+    "name": "НИИ НДХ И Т"
+  },
+  {
+    "id": "7357",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUC",
+    "position": [
+      55.749983333333,
+      37.621586111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУЦ - Kreml' - ФСБ",
+    "name": "КРЕМЛЬ"
+  },
+  {
+    "id": "10323",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHK4",
+    "position": [
+      55.760625,
+      37.628713888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХК4 - Lubyanka - ФСБ",
+    "name": "ЛУБЯНКА"
+  },
+  {
+    "id": "6346",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3R",
+    "position": [
+      55.764555555556,
+      37.630380555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3Р - Felix - ФСБ",
+    "name": "ФЕЛИКС"
+  },
+  {
+    "id": "8255",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEV6",
+    "position": [
+      55.733136111111,
+      37.649883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЖ6 - Vertopaluba-Dom muzyki - АОН",
+    "name": "ВЕРТОПАЛУБА-ДОМ МУЗЫКИ"
+  },
+  {
+    "id": "1708",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUI",
+    "position": [
+      55.776369444444,
+      37.638555555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУИ - Moskva (NII SP imeni N.V.Sklifosovskogo) - МЧС",
+    "name": "НИИ СП ИМЕНИ Н.В.СКЛИФОСОВСКОГО"
+  },
+  {
+    "id": "1501",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUQ",
+    "position": [
+      55.865547222222,
+      37.664633333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУЯ - GKB imeni A.K.Eramishantseva - МЧС",
+    "name": "ГКБ ИМЕНИ А.К.ЕРАМИШАНЦЕВА"
+  },
+  {
+    "id": "8685",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF85",
+    "position": [
+      55.76129,
+      37.72185
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ85 - Avtopark-25 - ГА",
+    "name": "АВТОПАРК 25"
+  },
+  {
+    "id": "7369",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE2J",
+    "position": [
+      55.746583333333,
+      37.727833333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ2Й - Prud-Klyuchiki - МВД",
+    "name": "ПРУД-КЛЮЧИКИ"
+  },
+  {
+    "id": "2652",
+    "type": "HD",
+    "isValid": true,
+    "index": "HAC9",
+    "position": [
+      55.793027777778,
+      37.738138888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХАЦ9 - GKB №36 - МЧС",
+    "name": "ГКБ №36"
+  },
+  {
+    "id": "8706",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF8R",
+    "position": [
+      55.805277777778,
+      37.740555555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ8Р - Lokomotiv - ГА",
+    "name": "ЛОКОМОТИВ"
+  },
+  {
+    "id": "8291",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEX8",
+    "position": [
+      55.884363888889,
+      37.743952777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЬ8 - Leningrad - АОН",
+    "name": "ЛЕНИНГРАД"
+  },
+  {
+    "id": "6329",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3H",
+    "position": [
+      55.836852777778,
+      37.749433333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3Х - Losiniy Ostrov - ГА",
+    "name": "ЛОСИНЫЙ ОСТРОВ"
+  },
+  {
+    "id": "10842",
+    "type": "HD",
+    "isValid": false,
+    "index": "HJ8Y",
+    "position": [
+      55.6239,
+      37.798772222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ8Ы - Aero Base-Moscow - АОН",
+    "name": "АЭРО БЭЙС-МОСКВА"
+  },
+  {
+    "id": "7756",
+    "type": "HD",
+    "isValid": false,
+    "index": "UUDO",
+    "position": [
+      55.549483333333,
+      37.86445
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУДО - Orlovo (Rus') - АОН",
+    "name": "ОРЛОВО (РУСЬ)"
+  },
+  {
+    "id": "1486",
+    "type": "HD",
+    "isValid": false,
+    "index": "H581",
+    "position": [
+      55.636975,
+      37.823088888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х581 - Dzerzhinskiy - АОН",
+    "name": "ДЗЕРЖИНСКИЙ"
+  },
+  {
+    "id": "1429",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCV2",
+    "position": [
+      55.654983333333,
+      37.867466666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЖ2 - Belaya Dacha - АОН",
+    "name": "БЕЛАЯ ДАЧА"
+  },
+  {
+    "id": "1582",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY3",
+    "position": [
+      55.6870167,
+      37.8399333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ3 - Zhulebino - ЭА",
+    "name": "ЖУЛЕБИНО"
+  },
+  {
+    "id": "1768",
+    "type": "HD",
+    "isValid": false,
+    "index": "UUBU",
+    "position": [
+      55.6972667,
+      37.879
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУБУ - Lyubertsy (Ukhtomskaya) - ЭА",
+    "name": "УХТОМСКАЯ"
+  },
+  {
+    "id": "1633",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUCL",
+    "position": [
+      55.668302777778,
+      37.928405555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУЦЛ - Lyubertsy (Panki) - ЭА",
+    "name": "ПАНКИ"
+  },
+  {
+    "id": "1500",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUUN",
+    "position": [
+      55.729761111111,
+      37.830713888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУУН - GKB 15 - МЧС",
+    "name": "ГКБ 15"
+  },
+  {
+    "id": "7262",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUDR",
+    "position": [
+      55.776152777778,
+      37.845944444444
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУДР - Heliport Reutov - АОН",
+    "name": "ХЕЛИПОРТ РЕУТОВ"
+  },
+  {
+    "id": "1787",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA69",
+    "position": [
+      55.787219444444,
+      37.865930555556
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА69 - Volga-Balashikha - АОН",
+    "name": "ВОЛГА-БАЛАШИХА"
+  },
+  {
+    "id": "8712",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF8X",
+    "position": [
+      55.763672222222,
+      37.955163888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ8Ь - Pakhra - АОН",
+    "name": "ПАХРА"
+  },
+  {
+    "id": "10679",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ4Z",
+    "position": [
+      55.784902777778,
+      37.965213888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ4З - Akademiya RVSN - МО",
+    "name": "АКАДЕМИЯ РВСН"
+  },
+  {
+    "id": "9809",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH15",
+    "position": [
+      55.793591666667,
+      37.946986111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ15 - Leonovo - АОН",
+    "name": "ЛЕОНОВО"
+  },
+  {
+    "id": "1609",
+    "type": "HD",
+    "isValid": false,
+    "index": "XUEN",
+    "position": [
+      55.912883333333,
+      37.625266666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУЕН - Nagornoye - ДОСААФ",
+    "name": "НАГОРНОЕ"
+  },
+  {
+    "id": "7310",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE1Y",
+    "position": [
+      55.970916666667,
+      37.6812
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ1Ы - Gals - АОН",
+    "name": "ГАЛС"
+  },
+  {
+    "id": "2616",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUAO",
+    "position": [
+      56.049083333333,
+      37.658283333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУАО - Yur'yevo - АОН",
+    "name": "ЮРЬЕВО"
+  },
+  {
+    "id": "9400",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG8G",
+    "position": [
+      55.991683333333,
+      37.673066666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ8Г - Pirogovo - АОН",
+    "name": "ПИРОГОВО"
+  },
+  {
+    "id": "5689",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCL8",
+    "position": [
+      56.041583333333,
+      37.663041666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЛ8 - MDAeroGroup - АОН",
+    "name": "СОЛНЕЧНАЯ ПОЛЯНА (МДАЭРОГРУП)"
+  },
+  {
+    "id": "7416",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE3E",
+    "position": [
+      56.040416666667,
+      37.682516666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ3Е - Vitenevo - АОН",
+    "name": "ВИТЕНЕВО"
+  },
+  {
+    "id": "3740",
+    "type": "HD",
+    "isValid": true,
+    "index": "HB5I",
+    "position": [
+      55.974366666667,
+      37.706166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХБ5И - Pirogovo (Farvater) - АОН",
+    "name": "ФАРВАТЕР"
+  },
+  {
+    "id": "10164",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH9W",
+    "position": [
+      55.909655555556,
+      37.768847222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ9В - Mytishchi (Akson) - АОН",
+    "name": "АКСОН"
+  },
+  {
+    "id": "8015",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEF0",
+    "position": [
+      56.0052,
+      37.706683333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕФ0 - Ul'yankovo - АОН",
+    "name": "УЛЬЯНКОВО"
+  },
+  {
+    "id": "10294",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHG6",
+    "position": [
+      56.086147222222,
+      37.618016666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХГ6 -  - АОН",
+    "name": "ГОЛЬФ-КЛУБ ПЕСТОВО"
+  },
+  {
+    "id": "1815",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA6S",
+    "position": [
+      56.091972222222,
+      37.633261111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА6С - Zeleniy Mys - АОН",
+    "name": "ЗЕЛЕНЫЙ МЫС"
+  },
+  {
+    "id": "2294",
+    "type": "HD",
+    "isValid": true,
+    "index": "H292",
+    "position": [
+      56.199044444444,
+      37.650283333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х292 - Novogrishino - МВД",
+    "name": "НОВОГРИШИНО"
+  },
+  {
+    "id": "9291",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG5K",
+    "position": [
+      55.923516666667,
+      37.807372222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ5К - Korolev (Energiya) - ЭА",
+    "name": "ЭНЕРГИЯ"
+  },
+  {
+    "id": "2508",
+    "type": "HD",
+    "isValid": true,
+    "index": "H602",
+    "position": [
+      55.95585,
+      37.89235
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х602 - Polyanka - АОН",
+    "name": "ПОЛЯНКА"
+  },
+  {
+    "id": "7082",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDT0",
+    "position": [
+      55.94215,
+      37.925216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДТ0 - Obraztsovo - АОН",
+    "name": "ОБРАЗЦОВО"
+  },
+  {
+    "id": "10587",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ2R",
+    "position": [
+      55.994611111111,
+      37.896913888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ2Р - Lira - АОН",
+    "name": "ЛИРА"
+  },
+  {
+    "id": "1715",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA50",
+    "position": [
+      56.155016666667,
+      37.926080555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА50 - Sofrino - МО",
+    "name": "СОФРИНО"
+  },
+  {
+    "id": "8289",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCE",
+    "position": [
+      55.53195,
+      38.01695
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦЕ - Eganovo - АОН",
+    "name": "ЕГАНОВО"
+  },
+  {
+    "id": "2577",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE5Z",
+    "position": [
+      55.437683333333,
+      38.070033333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ5З - Grachi - АОН",
+    "name": "ГРАЧИ"
+  },
+  {
+    "id": "5421",
+    "type": "HD",
+    "isValid": false,
+    "index": "HC9J",
+    "position": [
+      55.3961167,
+      38.3356667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦ9Й - Borsheva (Krest) - МО",
+    "name": "КРЕСТ"
+  },
+  {
+    "id": "9519",
+    "type": "HD",
+    "isValid": false,
+    "index": "HGC7",
+    "position": [
+      55.536533333333,
+      38.547
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЦ7 - Poligon aviasistem - ЭА",
+    "name": "ПОЛИГОН АВИАСИСТЕМ"
+  },
+  {
+    "id": "6328",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZD1R",
+    "position": [
+      55.56215,
+      37.982316666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗД1Р - Kondor - АОН",
+    "name": "КОНДОР"
+  },
+  {
+    "id": "6790",
+    "type": "HD",
+    "isValid": false,
+    "index": "HDC6",
+    "position": [
+      55.651833333333,
+      37.977383333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДЦ6 - Kraskovo - АОН",
+    "name": "КРАСКОВО"
+  },
+  {
+    "id": "6316",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3A",
+    "position": [
+      55.618066666667,
+      38.06825
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3А - Bykovo (Ploschadka MVD) - МВД",
+    "name": "ПЛОЩАДКА МВД"
+  },
+  {
+    "id": "6132",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD1C",
+    "position": [
+      55.559119444444,
+      38.10945
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД1Ц - Narkomvod - АОН",
+    "name": "НАРКОМВОД"
+  },
+  {
+    "id": "10232",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHB5",
+    "position": [
+      55.557222222222,
+      38.129166666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХБ5 - Zhukovskiy (ICBA) - АОН",
+    "name": "МЦДА"
+  },
+  {
+    "id": "10239",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHB8",
+    "position": [
+      55.56183,
+      38.12558
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": true,
+    "title": "ХХБ8 - Ramport-1 - ГА",
+    "name": "РАМПОРТ-1"
+  },
+  {
+    "id": "1616",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3G",
+    "position": [
+      55.8092833,
+      38.04555
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3Г - Novaya - МВД",
+    "name": "НОВАЯ"
+  },
+  {
+    "id": "8713",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF8Y",
+    "position": [
+      55.844408333333,
+      37.9748
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ8Ы - Pekhra Pokrovskaya - ГА",
+    "name": "ПЕХРА ПОКРОВСКАЯ"
+  },
+  {
+    "id": "1728",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA58",
+    "position": [
+      55.8363167,
+      37.9922167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА58 - Sputnik - ФСБ",
+    "name": "СПУТНИК"
+  },
+  {
+    "id": "6825",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUMQ",
+    "position": [
+      55.883416666667,
+      38.0158
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУМЯ - Yastreb - ЭА",
+    "name": "ЯСТРЕБ"
+  },
+  {
+    "id": "1590",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA2Y",
+    "position": [
+      55.8858,
+      38.018533333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА2Ы - Vertolyety Rossii - АОН",
+    "name": "ВЕРТОЛЕТЫ РОССИИ"
+  },
+  {
+    "id": "1459",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA0W",
+    "position": [
+      55.7601833,
+      38.0694333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА0В - Chernoye - МО",
+    "name": "ЧЕРНОЕ"
+  },
+  {
+    "id": "6333",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3J",
+    "position": [
+      55.816016666667,
+      38.127316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3Й - Rita - АОН",
+    "name": "РИТА"
+  },
+  {
+    "id": "10790",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7K",
+    "position": [
+      55.873991666667,
+      38.116552777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7К - Zvezdnaya - МО",
+    "name": "ЗВЕЗДНАЯ"
+  },
+  {
+    "id": "1779",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA64",
+    "position": [
+      55.619866666667,
+      38.15375
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА64 - Vera - АОН",
+    "name": "ВЕРА"
+  },
+  {
+    "id": "10093",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH8Q",
+    "position": [
+      55.834919444444,
+      38.182988888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ8Я - Monino (Muzey VVS) - АОН",
+    "name": "МУЗЕЙ ВВС"
+  },
+  {
+    "id": "2075",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA9G",
+    "position": [
+      55.855966666667,
+      38.271483333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА9Г - Aborino - ГА",
+    "name": "АБОРИНО"
+  },
+  {
+    "id": "10412",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHT6",
+    "position": [
+      55.912636111111,
+      38.006563888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХТ6 - Valenta Farm - АОН",
+    "name": "ВАЛЕНТА ФАРМ"
+  },
+  {
+    "id": "918",
+    "type": "HD",
+    "isValid": false,
+    "index": "UUME",
+    "position": [
+      56.041936111111,
+      37.978647222222
+    ],
+    "avgas": true,
+    "petrol": true,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУМЕ - Vertoport Pushkino - АОН",
+    "name": "ВЕРТОЛЕТНЫЙ ПОРТ ПУШКИНО"
+  },
+  {
+    "id": "8319",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEZ8",
+    "position": [
+      56.116816666667,
+      38.168616666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЗ8 - Krasnoarmeysk - МВД",
+    "name": "КРАСНОАРМЕЙСК"
+  },
+  {
+    "id": "2077",
+    "type": "HD",
+    "isValid": false,
+    "index": "H014",
+    "position": [
+      55.666469444444,
+      38.339047222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х014 - Alekseyevka - МО",
+    "name": "АЛЕКСЕЕВКА"
+  },
+  {
+    "id": "10589",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ2S",
+    "position": [
+      55.809269444444,
+      38.446180555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ2С - Zatishye - ГА",
+    "name": "ЗАТИШЬЕ"
+  },
+  {
+    "id": "1536",
+    "type": "HD",
+    "isValid": true,
+    "index": "H042",
+    "position": [
+      55.884533333333,
+      38.611783333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х042 - Karavayevo - МО",
+    "name": "КАРАВАЕВО"
+  },
+  {
+    "id": "5772",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCP2",
+    "position": [
+      55.9165,
+      38.481033333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦП2 - Noginsk - МЧС",
+    "name": "НОГИНСК"
+  },
+  {
+    "id": "1674",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4D",
+    "position": [
+      55.1496833,
+      38.6981
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4Д - Raduzhniy - МЧС",
+    "name": "РАДУЖНЫЙ"
+  },
+  {
+    "id": "10615",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ3C",
+    "position": [
+      55.384941666667,
+      39.067902777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ3Ц - Egor'yevsk - АОН",
+    "name": "ЕГОРЬЕВСК"
+  },
+  {
+    "id": "9966",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH5G",
+    "position": [
+      55.859969444444,
+      38.883883333333
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ5Г - Ozherelki - АОН",
+    "name": "ОЖЕРЕЛКИ"
+  },
+  {
+    "id": "8017",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEF2",
+    "position": [
+      55.9566,
+      38.703266666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕФ2 - Astra-2 - МЧС",
+    "name": "АСТРА-2"
+  },
+  {
+    "id": "2572",
+    "type": "HD",
+    "isValid": true,
+    "index": "H711",
+    "position": [
+      56.184827777778,
+      38.853352777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х711 - Kirzhach-D - АОН",
+    "name": "КИРЖАЧ-Д"
+  },
+  {
+    "id": "7883",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE9N",
+    "position": [
+      55.979491666667,
+      39.187966666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ9Н - Baza Pokrovskoye - ФСБ",
+    "name": "БАЗА ПОКРОВСКОЕ"
+  },
+  {
+    "id": "1550",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA2F",
+    "position": [
+      56.119333333333,
+      39.1683
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА2Ф - Kolenovo - АОН",
+    "name": "КОЛЕНОВО"
+  },
+  {
+    "id": "6710",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDB1",
+    "position": [
+      55.961183333333,
+      39.227816666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДБ1 - Barskiy Lug - АОН",
+    "name": "БАРСКИЙ ЛУГ"
+  },
+  {
+    "id": "1646",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3Z",
+    "position": [
+      55.995833333333,
+      39.358216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3З - Kostino - ГА",
+    "name": "КОСТИНО"
+  },
+  {
+    "id": "1679",
+    "type": "HD",
+    "isValid": true,
+    "index": "H382",
+    "position": [
+      56.091702777778,
+      39.498133333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х382 - Rozhdestvo - МО",
+    "name": "РОЖДЕСТВО"
+  },
+  {
+    "id": "2200",
+    "type": "HD",
+    "isValid": true,
+    "index": "H193",
+    "position": [
+      55.9404,
+      39.59125
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х193 - Kosterevo - МО",
+    "name": "КОСТЕРЕВО"
+  },
+  {
+    "id": "8197",
+    "type": "HD",
+    "isValid": true,
+    "index": "HET2",
+    "position": [
+      55.183647222222,
+      40.547458333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕТ2 - KS Tuma - ГА",
+    "name": "КС ТУМА"
+  },
+  {
+    "id": "10333",
+    "type": "HD",
+    "isValid": false,
+    "index": "HHL4",
+    "position": [
+      55.886425,
+      40.313636111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЛ4 - Raduzhniy - МО",
+    "name": "РАДУЖНЫЙ"
+  },
+  {
+    "id": "2596",
+    "type": "HD",
+    "isValid": false,
+    "index": "H790",
+    "position": [
+      56.0333667,
+      40.0999333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х790 - Undol - ГА",
+    "name": "УНДОЛ"
+  },
+  {
+    "id": "7713",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE7V",
+    "position": [
+      56.040975,
+      40.208175
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ7Ж - Zori - АОН",
+    "name": "ЗОРИ"
+  },
+  {
+    "id": "10654",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ4B",
+    "position": [
+      56.152038888889,
+      40.325969444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ4Б - Bogoslovo - АОН",
+    "name": "БОГОСЛОВО"
+  },
+  {
+    "id": "10674",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUIX",
+    "position": [
+      56.151769444444,
+      40.404722222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУИЬ - Pochaevsky proezd - АОН",
+    "name": "ПОЧАЕВСКИЙ ПРОЕЗД"
+  },
+  {
+    "id": "9676",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGT5",
+    "position": [
+      56.017802777778,
+      40.493427777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГТ5 - Baraki-v/4 71380 - МО",
+    "name": "БАРАКИ-В/Ч 71380"
+  },
+  {
+    "id": "6501",
+    "type": "HD",
+    "isValid": false,
+    "index": "HD6S",
+    "position": [
+      56.168575,
+      40.4984
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД6С - STES-Vladimir - ГА",
+    "name": "СТЭС-ВЛАДИМИР"
+  },
+  {
+    "id": "6107",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD0X",
+    "position": [
+      56.13105,
+      40.822933333333
+    ],
+    "avgas": false,
+    "petrol": true,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД0Ь - Danilovka - АОН",
+    "name": "ДАНИЛОВКА"
+  },
+  {
+    "id": "10162",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH9V",
+    "position": [
+      56.231136111111,
+      41.299122222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ9Ж - Dobrograd - АОН",
+    "name": "ДОБРОГРАД"
+  },
+  {
+    "id": "1796",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA6F",
+    "position": [
+      55.3358667,
+      42.1366333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА6Ф - Vyksa (VMZ) - ГА",
+    "name": "ВМЗ"
+  },
+  {
+    "id": "1795",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA6E",
+    "position": [
+      55.384116666667,
+      42.172733333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА6Е - Vyksa (LPK) - ГА",
+    "name": "ЛПК"
+  },
+  {
+    "id": "10229",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHB2",
+    "position": [
+      55.85412,
+      41.74216
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХБ2 - Eco-Farm Kazachiy Hutor - АОН",
+    "name": "ЭКО-ФЕРМА КАЗАЧИЙ ХУТОР"
+  },
+  {
+    "id": "2283",
+    "type": "HD",
+    "isValid": true,
+    "index": "UWGU",
+    "position": [
+      55.594711111111,
+      41.991463888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УВГУ - Ustoychivy - ГА",
+    "name": "УСТОЙЧИВЫЙ"
+  },
+  {
+    "id": "8205",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEU0",
+    "position": [
+      56.1733,
+      41.98625
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕУ0 - Nikologory (KS-3) - ГА",
+    "name": "НИКОЛОГОРЫ (КС-3)"
+  },
+  {
+    "id": "10072",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH85",
+    "position": [
+      55.420436111111,
+      42.529066666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ85 - Ruspolimet - АОН",
+    "name": "РУСПОЛИМЕТ"
+  },
+  {
+    "id": "8103",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEL1",
+    "position": [
+      56.233441666667,
+      42.201872222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЛ1 - Vyazniki (LTK Yaropolch) - АОН",
+    "name": "ЛТК ЯРОПОЛЧ"
+  },
+  {
+    "id": "10799",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7U",
+    "position": [
+      55.81325,
+      42.803
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7У - Vacha - АОН",
+    "name": "ВАЧА"
+  },
+  {
+    "id": "5883",
+    "type": "HD",
+    "isValid": false,
+    "index": "HCV6",
+    "position": [
+      56.218294444444,
+      42.707547222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЖ6 - Gorokhovets - МО",
+    "name": "ГОРОХОВЕЦ"
+  },
+  {
+    "id": "5884",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCV7",
+    "position": [
+      56.030338888889,
+      42.742652777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЖ7 - NPS Stepan'kovo - ГА",
+    "name": "НПС СТЕПАНЬКОВО"
+  },
+  {
+    "id": "6957",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDK6",
+    "position": [
+      55.4975,
+      43.34795
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДК6 - Balakhonikha NPS - АОН",
+    "name": "БАЛАХОНИХА НПС"
+  },
+  {
+    "id": "8207",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEU1",
+    "position": [
+      55.596016666667,
+      43.13575
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕУ1 - NPS Krasnen'kaya - ГА",
+    "name": "НПС КРАСНЕНЬКАЯ"
+  },
+  {
+    "id": "9743",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY8",
+    "position": [
+      55.981902777778,
+      43.083841666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ8 - Pavlovo - АОН",
+    "name": "ПАВЛОВО"
+  },
+  {
+    "id": "7305",
+    "type": "HD",
+    "isValid": false,
+    "index": "HE1V",
+    "position": [
+      55.95081,
+      43.52261
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ1Ж - Ionovka - АОН",
+    "name": "ИОНОВКА"
+  },
+  {
+    "id": "1406",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA01",
+    "position": [
+      56.118583333333,
+      43.531708333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА01 - Bogorodsk - ГА",
+    "name": "БОГОРОДСК"
+  },
+  {
+    "id": "10758",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ6P",
+    "position": [
+      56.247986111111,
+      43.544594444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ6П - Tosol Sintez - АОН",
+    "name": "ТОСОЛ СИНТЕЗ"
+  },
+  {
+    "id": "7473",
+    "type": "HD",
+    "isValid": false,
+    "index": "ZE03",
+    "position": [
+      55.343672222222,
+      43.718227777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗЕ03 - Vasil'yev Vrag - ГА",
+    "name": "ВАСИЛЬЕВ ВРАГ"
+  },
+  {
+    "id": "2082",
+    "type": "HD",
+    "isValid": false,
+    "index": "UWGZ",
+    "position": [
+      55.3670833,
+      43.8365667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УВГЗ - Arzamas - ГА",
+    "name": "АРЗАМАС"
+  },
+  {
+    "id": "7299",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE1Q",
+    "position": [
+      56.159802777778,
+      43.910927777778
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ1Я - Druzhniy - АОН",
+    "name": "ДРУЖНЫЙ"
+  },
+  {
+    "id": "5940",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCX9",
+    "position": [
+      56.183813888889,
+      44.005394444444
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЬ9 - Nizhniy Novgorod (Royka) - АОН",
+    "name": "РОЙКА"
+  },
+  {
+    "id": "8198",
+    "type": "HD",
+    "isValid": true,
+    "index": "HET3",
+    "position": [
+      56.128916666667,
+      44.106883333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕТ3 - NPS Starolikeyevo - ГА",
+    "name": "НПС СТАРОЛИКЕЕВО"
+  },
+  {
+    "id": "1569",
+    "type": "HD",
+    "isValid": true,
+    "index": "H208",
+    "position": [
+      56.195266666667,
+      44.120533333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х208 - Kstovo M7 - ГА",
+    "name": "КСТОВО М7"
+  },
+  {
+    "id": "8687",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF87",
+    "position": [
+      55.991516666667,
+      44.1958
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ87 - NPS Gor'kiy - ГА",
+    "name": "НПС ГОРЬКИЙ"
+  },
+  {
+    "id": "1682",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUAK",
+    "position": [
+      56.282733333333,
+      34.194272222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУАК - Rzhev (Kompressornaya) - ГА",
+    "name": "КОМПРЕССОРНАЯ"
+  },
+  {
+    "id": "9642",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGQ4",
+    "position": [
+      56.2865,
+      34.214211111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЯ4 - Rzhev (Kompressornaya-2) - ГА",
+    "name": "КОМПРЕССОРНАЯ-2"
+  },
+  {
+    "id": "10680",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ50",
+    "position": [
+      56.873613888889,
+      34.306025
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ50 - Rylyevo - ГА",
+    "name": "РЫЛЁВО"
+  },
+  {
+    "id": "9779",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH0G",
+    "position": [
+      56.30035,
+      34.66715
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ0Г - Alexino - АОН",
+    "name": "АЛЕКСИНО"
+  },
+  {
+    "id": "9913",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH3X",
+    "position": [
+      56.261191666667,
+      34.718113888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Ь - Karamzino - АОН",
+    "name": "КАРАМЗИНО"
+  },
+  {
+    "id": "10681",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ51",
+    "position": [
+      56.944744444444,
+      34.576163888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-black-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ51 - Butivitsy - ",
+    "name": "БУТИВИЦЫ"
+  },
+  {
+    "id": "5906",
+    "type": "HD",
+    "isValid": true,
+    "index": "HCX5",
+    "position": [
+      56.51395,
+      34.9271667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЬ5 - Staritsa - ГА",
+    "name": "СТАРИЦА"
+  },
+  {
+    "id": "1461",
+    "type": "HD",
+    "isValid": true,
+    "index": "H835",
+    "position": [
+      56.57475,
+      35.001533333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х835 - Chukavino - АОН",
+    "name": "ЧУКАВИНО"
+  },
+  {
+    "id": "1808",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUEX",
+    "position": [
+      56.777652777778,
+      35.103916666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЕЬ - Zales'ye - ГА",
+    "name": "ЗАЛЕСЬЕ"
+  },
+  {
+    "id": "8320",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEZ9",
+    "position": [
+      56.955588888889,
+      34.77635
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЗ9 - Dubki - ГА",
+    "name": "ДУБКИ"
+  },
+  {
+    "id": "1755",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUAN",
+    "position": [
+      57.029483333333,
+      35.016763888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУАН - Torzhok (Kompressornaya) - ГА",
+    "name": "КОМПРЕССОРНАЯ"
+  },
+  {
+    "id": "10740",
+    "type": "HD",
+    "isValid": false,
+    "index": "HJ67",
+    "position": [
+      56.4432,
+      35.544363888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ67 - Vladimirovka - АОН",
+    "name": "ВЛАДИМИРОВКА"
+  },
+  {
+    "id": "1440",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA0K",
+    "position": [
+      56.829588888889,
+      35.667755555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА0К - Borovaya - АОН",
+    "name": "БОРОВАЯ"
+  },
+  {
+    "id": "8057",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEG9",
+    "position": [
+      56.668916666667,
+      35.84075
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕГ9 - Pochinki - АОН",
+    "name": "ПОЧИНКИ"
+  },
+  {
+    "id": "6317",
+    "type": "HD",
+    "isValid": true,
+    "index": "HD3B",
+    "position": [
+      56.876866666667,
+      35.826083333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХД3Б - OKB Tver' - МЧС",
+    "name": "ОКБ ТВЕРЬ"
+  },
+  {
+    "id": "1553",
+    "type": "HD",
+    "isValid": true,
+    "index": "H325",
+    "position": [
+      56.954416666667,
+      35.251183333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х325 - Kon-Kor - АОН",
+    "name": "КОН-КОР"
+  },
+  {
+    "id": "6199",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTA",
+    "position": [
+      56.58435,
+      35.995933333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТА - Kirillovka - АОН",
+    "name": "КИРИЛЛОВКА"
+  },
+  {
+    "id": "1763",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUBN",
+    "position": [
+      56.915616666667,
+      35.93285
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУБН - Tver' (Zmeyevo) - ГА",
+    "name": "ЗМЕЕВО"
+  },
+  {
+    "id": "1675",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4E",
+    "position": [
+      56.825066666667,
+      35.979566666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4Е - Tver' (Rechport) - АОН",
+    "name": "РЕЧПОРТ"
+  },
+  {
+    "id": "9503",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTB",
+    "position": [
+      56.797997222222,
+      36.1963
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТБ - Admiral'skaya Bukhta - АОН",
+    "name": "АДМИРАЛЬСКАЯ БУХТА"
+  },
+  {
+    "id": "4861",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUEP",
+    "position": [
+      56.510222222222,
+      36.241816666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЕП - Zavidovo (Rus') - ФСБ",
+    "name": "РУСЬ"
+  },
+  {
+    "id": "8260",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTJ",
+    "position": [
+      56.575641666667,
+      36.505825
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТЙ - Zavidovo (Treugolka) - АОН",
+    "name": "ЗАВИДОВО (ТРЕУГОЛКА)"
+  },
+  {
+    "id": "8259",
+    "type": "HD",
+    "isValid": false,
+    "index": "HEV9",
+    "position": [
+      56.598258333333,
+      36.514025
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕЖ9 - Zavidovo (Radisson) - АОН",
+    "name": "ЗАВИДОВО (RADISSON)"
+  },
+  {
+    "id": "6330",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZD1S",
+    "position": [
+      56.773269444444,
+      36.327697222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗД1С - Igumenka (Shtoer) - АОН",
+    "name": "ШТОЕР"
+  },
+  {
+    "id": "10234",
+    "type": "HD",
+    "isValid": false,
+    "index": "HHB6",
+    "position": [
+      56.763805555556,
+      36.341377777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХБ6 - Ekaterinovka - АОН",
+    "name": "ЕКАТЕРИНОВКА"
+  },
+  {
+    "id": "1734",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA5D",
+    "position": [
+      56.749380555556,
+      36.353116666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА5Д - Sudimirka - АОН",
+    "name": "СУДИМИРКА"
+  },
+  {
+    "id": "1591",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA2Z",
+    "position": [
+      56.664733333333,
+      36.43425
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА2З - Melkovo - АОН",
+    "name": "МЕЛКОВО"
+  },
+  {
+    "id": "7078",
+    "type": "HD",
+    "isValid": true,
+    "index": "HDS6",
+    "position": [
+      56.67035,
+      36.484333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХДС6 - Nefedikha - АОН",
+    "name": "НЕФЕДИХА"
+  },
+  {
+    "id": "5708",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZC85",
+    "position": [
+      56.6115,
+      36.529383333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗЦ85 - UPDK Zavidovo - АОН",
+    "name": "УПДК ЗАВИДОВО"
+  },
+  {
+    "id": "1703",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4T",
+    "position": [
+      56.61245,
+      36.554027777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4Т - Shosha - АОН",
+    "name": "ШОША"
+  },
+  {
+    "id": "4434",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUCD",
+    "position": [
+      56.315011111111,
+      36.767491666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЦД - Dorozhniy - АОН",
+    "name": "ДОРОЖНЫЙ"
+  },
+  {
+    "id": "2100",
+    "type": "HD",
+    "isValid": false,
+    "index": "H048",
+    "position": [
+      56.319633333333,
+      36.8077
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х048 - Borozda - МО",
+    "name": "БОРОЗДА"
+  },
+  {
+    "id": "10335",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHL6",
+    "position": [
+      56.6288,
+      36.607236111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЛ6 - Dzen-SPA - АОН",
+    "name": "DZEN-SPA"
+  },
+  {
+    "id": "8408",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTQ",
+    "position": [
+      56.629486111111,
+      36.608994444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТЯ - Sverdlovka - АОН",
+    "name": "СВЕРДЛОВКА"
+  },
+  {
+    "id": "1463",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA0X",
+    "position": [
+      56.632616666667,
+      36.61415
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА0Ь - Dafna - АОН",
+    "name": "ДАФНА"
+  },
+  {
+    "id": "10059",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH7X",
+    "position": [
+      56.722466666667,
+      36.595619444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ7Ь - Remennitsy - АОН",
+    "name": "РЕМЕННИЦЫ"
+  },
+  {
+    "id": "1490",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA1D",
+    "position": [
+      56.668833333333,
+      36.68355
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА1Д - Energetik - АОН",
+    "name": "ЭНЕРГЕТИК"
+  },
+  {
+    "id": "8409",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF2F",
+    "position": [
+      56.692980555556,
+      36.716836111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ2Ф - Karacharovo - АОН",
+    "name": "КАРАЧАРОВО"
+  },
+  {
+    "id": "9283",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUTL",
+    "position": [
+      56.83785,
+      36.661483333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУТЛ - Aleksandrovskaya Sloboda - АОН",
+    "name": "АЛЕКСАНДРОВСКАЯ СЛОБОДА"
+  },
+  {
+    "id": "6321",
+    "type": "HD",
+    "isValid": true,
+    "index": "ZD1M",
+    "position": [
+      56.762422222222,
+      36.739313888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЗД1М - Konakovo (River Klab) - АОН",
+    "name": "РИВЕР КЛАБ"
+  },
+  {
+    "id": "10621",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ3J",
+    "position": [
+      56.369536111111,
+      37.179588888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ3Й - Links Golf Club - АОН",
+    "name": "ЛИНКС ГОЛЬФ КЛУБ"
+  },
+  {
+    "id": "8064",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEH4",
+    "position": [
+      56.507236111111,
+      37.114425
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕХ4 - Ust'-Pristan' - АОН",
+    "name": "УСТЬ-ПРИСТАНЬ"
+  },
+  {
+    "id": "1480",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA16",
+    "position": [
+      56.717383333333,
+      37.0587
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА16 - Dubna - ",
+    "name": "ДУБНА"
+  },
+  {
+    "id": "10637",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ3Z",
+    "position": [
+      56.71925,
+      37.173422222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ3З - Dubna (OEZ) - АОН",
+    "name": "ДУБНА (ОЭЗ)"
+  },
+  {
+    "id": "10541",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ1P",
+    "position": [
+      56.754841666667,
+      37.159797222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ1П - Dubna (Krug) - АОН",
+    "name": "ДУБНА (КРУГ)"
+  },
+  {
+    "id": "10805",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ80",
+    "position": [
+      56.775841666667,
+      37.221886111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ80 - Ratmino - ГА",
+    "name": "РАТМИНО"
+  },
+  {
+    "id": "1668",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4B",
+    "position": [
+      56.774961111111,
+      37.259916666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4Б - Pritykino - АОН",
+    "name": "ПРИТЫКИНО"
+  },
+  {
+    "id": "1610",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA3D",
+    "position": [
+      56.337483333333,
+      37.297083333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА3Д - Avtopoligon NAMI - ГА",
+    "name": "АВТОПОЛИГОН НАМИ"
+  },
+  {
+    "id": "1786",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUEJ",
+    "position": [
+      56.27945,
+      37.476116666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЕЙ - Volen (Heliport) - АОН",
+    "name": "ВОЛЕН (ХЕЛИПОРТ)"
+  },
+  {
+    "id": "10816",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ88",
+    "position": [
+      56.342036111111,
+      37.572227777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ88 - Dmitrov - АОН",
+    "name": "ДМИТРОВ"
+  },
+  {
+    "id": "2096",
+    "type": "HD",
+    "isValid": false,
+    "index": "H043",
+    "position": [
+      56.3416667,
+      37.8305667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х043 - Bolshevo - ГА",
+    "name": "БОЛШЕВО"
+  },
+  {
+    "id": "1552",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA2H",
+    "position": [
+      56.992266666667,
+      37.426283333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА2Х - Kolkunovo - АОН",
+    "name": "КОЛКУНОВО"
+  },
+  {
+    "id": "2576",
+    "type": "HD",
+    "isValid": true,
+    "index": "H717",
+    "position": [
+      56.967586111111,
+      37.483919444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х717 - Glazovo - АОН",
+    "name": "ГЛАЗОВО"
+  },
+  {
+    "id": "2579",
+    "type": "HD",
+    "isValid": true,
+    "index": "H719",
+    "position": [
+      57.02955,
+      37.454780555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х719 - Selishche - АОН",
+    "name": "СЕЛИЩЕ"
+  },
+  {
+    "id": "130",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUMX",
+    "position": [
+      56.325677777778,
+      38.097841666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУМЬ - Blagoveshchen'ye - АОН",
+    "name": "БЛАГОВЕЩЕНЬЕ"
+  },
+  {
+    "id": "10540",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ1N",
+    "position": [
+      56.322580555556,
+      38.120158333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ1Н - Sadovaya - МЧС",
+    "name": "САДОВАЯ"
+  },
+  {
+    "id": "10801",
+    "type": "HD",
+    "isValid": true,
+    "index": "HJ7W",
+    "position": [
+      56.430847222222,
+      38.147141666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЙ7В - Peresvet - АОН",
+    "name": "ПЕРЕСВЕТ"
+  },
+  {
+    "id": "8692",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF8B",
+    "position": [
+      56.46835,
+      38.34995
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ8Б - Lobkovo - ГА",
+    "name": "ЛОБКОВО"
+  },
+  {
+    "id": "9761",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGZ9",
+    "position": [
+      56.624033333333,
+      38.450083333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЗ9 - Zhelnino - АОН",
+    "name": "ЖЕЛНИНО"
+  },
+  {
+    "id": "7880",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUQX",
+    "position": [
+      56.815188888889,
+      38.325583333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЯЬ - Los' - ФСБ",
+    "name": "ЛОСЬ"
+  },
+  {
+    "id": "5691",
+    "type": "HD",
+    "isValid": false,
+    "index": "HCL9",
+    "position": [
+      56.3894833,
+      38.7534167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЦЛ9 -  - ГА",
+    "name": "АЛЕКСАНДРОВ"
+  },
+  {
+    "id": "8290",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUQP",
+    "position": [
+      56.738333333333,
+      38.727216666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУЯП - Popov Lug - АОН",
+    "name": "ПОПОВ ЛУГ"
+  },
+  {
+    "id": "9760",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGZ8",
+    "position": [
+      56.775483333333,
+      38.718833333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЗ8 - Zales'ye - АОН",
+    "name": "ЗАЛЕСЬЕ"
+  },
+  {
+    "id": "2320",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUAE",
+    "position": [
+      56.69165,
+      38.843
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУАЕ - Pereslavl'-Zalesskiy - ГА",
+    "name": "ПЕРЕСЛАВЛЬ-ЗАЛЕССКИЙ"
+  },
+  {
+    "id": "8090",
+    "type": "HD",
+    "isValid": true,
+    "index": "HEK2",
+    "position": [
+      56.78833,
+      38.83859
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕК2 - Pleshcheyevo - АОН",
+    "name": "ПЛЕЩЕЕВО"
+  },
+  {
+    "id": "9898",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3G",
+    "position": [
+      56.392655555556,
+      39.653369444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Г - Teykovo-50 - МО",
+    "name": "ТЕЙКОВО-50"
+  },
+  {
+    "id": "9894",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3C",
+    "position": [
+      56.350072222222,
+      39.706388888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Ц - Teykovo-46 - МО",
+    "name": "ТЕЙКОВО-46"
+  },
+  {
+    "id": "9897",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3F",
+    "position": [
+      56.434052777778,
+      39.683688888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Ф - Teykovo-49 - МО",
+    "name": "ТЕЙКОВО-49"
+  },
+  {
+    "id": "9890",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH38",
+    "position": [
+      56.726780555556,
+      39.532788888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ38 - Teykovo-40 - МО",
+    "name": "ТЕЙКОВО-40"
+  },
+  {
+    "id": "9907",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3R",
+    "position": [
+      56.884286111111,
+      39.544838888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Р - Teykovo-72 - МО",
+    "name": "ТЕЙКОВО-72"
+  },
+  {
+    "id": "9908",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3S",
+    "position": [
+      56.942019444444,
+      39.532527777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3С - Teykovo-73 - МО",
+    "name": "ТЕЙКОВО-73"
+  },
+  {
+    "id": "9889",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH37",
+    "position": [
+      56.709305555556,
+      39.649197222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ37 - Teykovo-39 - МО",
+    "name": "ТЕЙКОВО-39"
+  },
+  {
+    "id": "9909",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3T",
+    "position": [
+      56.893358333333,
+      39.623855555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Т - Teykovo-74 - МО",
+    "name": "ТЕЙКОВО-74"
+  },
+  {
+    "id": "9892",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3A",
+    "position": [
+      56.372938888889,
+      39.834461111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3А - Teykovo-42 - МО",
+    "name": "ТЕЙКОВО-42"
+  },
+  {
+    "id": "9891",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH39",
+    "position": [
+      56.418002777778,
+      39.875447222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ39 - Teykovo-41 - МО",
+    "name": "ТЕЙКОВО-41"
+  },
+  {
+    "id": "9893",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3B",
+    "position": [
+      56.463627777778,
+      39.786752777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Б - Teykovo-43 - МО",
+    "name": "ТЕЙКОВО-43"
+  },
+  {
+    "id": "9896",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3E",
+    "position": [
+      56.512225,
+      39.831491666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Е - Teykovo-48 - МО",
+    "name": "ТЕЙКОВО-48"
+  },
+  {
+    "id": "9902",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3L",
+    "position": [
+      56.318697222222,
+      39.955236111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Л - Teykovo-60 - МО",
+    "name": "ТЕЙКОВО-60"
+  },
+  {
+    "id": "9899",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3H",
+    "position": [
+      56.404208333333,
+      39.970525
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Х - Teykovo-51 - МО",
+    "name": "ТЕЙКОВО-51"
+  },
+  {
+    "id": "9900",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3J",
+    "position": [
+      56.347863888889,
+      40.033644444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Й - Teykovo-52 - МО",
+    "name": "ТЕЙКОВО-52"
+  },
+  {
+    "id": "9895",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3D",
+    "position": [
+      56.494130555556,
+      39.909608333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Д - Teykovo-47 - МО",
+    "name": "ТЕЙКОВО-47"
+  },
+  {
+    "id": "9888",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH36",
+    "position": [
+      56.609838888889,
+      39.819152777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ36 - Teykovo-35 - МО",
+    "name": "ТЕЙКОВО-35"
+  },
+  {
+    "id": "9905",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3P",
+    "position": [
+      56.869483333333,
+      40.015244444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3П - Teykovo-67 - МО",
+    "name": "ТЕЙКОВО-67"
+  },
+  {
+    "id": "9906",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3Q",
+    "position": [
+      56.984355555556,
+      39.709
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Я - Teykovo-71 - МО",
+    "name": "ТЕЙКОВО-71"
+  },
+  {
+    "id": "9901",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3K",
+    "position": [
+      56.425469444444,
+      40.199177777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3К - Teykovo-58 - МО",
+    "name": "ТЕЙКОВО-58"
+  },
+  {
+    "id": "9904",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3N",
+    "position": [
+      56.690230555556,
+      40.2064
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Н - Teykovo-65 - МО",
+    "name": "ТЕЙКОВО-65"
+  },
+  {
+    "id": "9882",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH30",
+    "position": [
+      56.872963888889,
+      40.111194444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ30 - Teykovo-5 - МО",
+    "name": "ТЕЙКОВО-5"
+  },
+  {
+    "id": "9881",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH2Z",
+    "position": [
+      56.948258333333,
+      40.143402777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ2З - Teykovo-4 - МО",
+    "name": "ТЕЙКОВО-4"
+  },
+  {
+    "id": "9910",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH3U",
+    "position": [
+      56.80155,
+      40.183258333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3У - Teykovo-81 - МО",
+    "name": "ТЕЙКОВО-81"
+  },
+  {
+    "id": "9903",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH3M",
+    "position": [
+      56.802627777778,
+      40.251158333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3М - Teykovo-63 - МО",
+    "name": "ТЕЙКОВО-63"
+  },
+  {
+    "id": "9911",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH3V",
+    "position": [
+      56.705916666667,
+      40.427783333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3Ж - Teykovo-83 - МО",
+    "name": "ТЕЙКОВО-83"
+  },
+  {
+    "id": "9912",
+    "type": "HD",
+    "isValid": true,
+    "index": "HH3W",
+    "position": [
+      56.913608333333,
+      40.316163888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ3В - Teykovo-84 - МО",
+    "name": "ТЕЙКОВО-84"
+  },
+  {
+    "id": "9880",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH2Y",
+    "position": [
+      56.937475,
+      40.391663888889
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ2Ы - Teykovo-2 - МО",
+    "name": "ТЕЙКОВО-2"
+  },
+  {
+    "id": "9863",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUIM",
+    "position": [
+      56.311263888889,
+      40.601041666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУИМ - Mordysh - АОН",
+    "name": "МОРДЫШ"
+  },
+  {
+    "id": "2408",
+    "type": "HD",
+    "isValid": false,
+    "index": "H428",
+    "position": [
+      56.4274,
+      40.456916666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х428 - Suzdal' - ГА",
+    "name": "СУЗДАЛЬ"
+  },
+  {
+    "id": "1738",
+    "type": "HD",
+    "isValid": true,
+    "index": "H731",
+    "position": [
+      56.4746833,
+      40.6714333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х731 - Suzha - АОН",
+    "name": "СУЖА"
+  },
+  {
+    "id": "9887",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH35",
+    "position": [
+      56.757175,
+      40.4964
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ35 - Teykovo-26 - МО",
+    "name": "ТЕЙКОВО-26"
+  },
+  {
+    "id": "1169",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUDT",
+    "position": [
+      56.841433333333,
+      40.484316666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУДТ - Teykovo - МО",
+    "name": "ТЕЙКОВО"
+  },
+  {
+    "id": "9885",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH33",
+    "position": [
+      56.870361111111,
+      40.712927777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ33 - Teykovo-15 - МО",
+    "name": "ТЕЙКОВО-15"
+  },
+  {
+    "id": "9886",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH34",
+    "position": [
+      56.927088888889,
+      40.743333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ34 - Teykovo-16 - МО",
+    "name": "ТЕЙКОВО-16"
+  },
+  {
+    "id": "8189",
+    "type": "HD",
+    "isValid": true,
+    "index": "HES6",
+    "position": [
+      57.026269444444,
+      40.756505555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕС6 - NPS Zales'ye - ГА",
+    "name": "НПС ЗАЛЕСЬЕ"
+  },
+  {
+    "id": "9883",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH31",
+    "position": [
+      56.816119444444,
+      40.829986111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ31 - Teykovo-12 - МО",
+    "name": "ТЕЙКОВО-12"
+  },
+  {
+    "id": "9884",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH32",
+    "position": [
+      56.897716666667,
+      40.811872222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ32 - Teykovo-14 - МО",
+    "name": "ТЕЙКОВО-14"
+  },
+  {
+    "id": "8188",
+    "type": "HD",
+    "isValid": true,
+    "index": "HES5",
+    "position": [
+      56.914336111111,
+      40.862705555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕС5 - NPS Zhilino - ГА",
+    "name": "НПС ЖИЛИНО"
+  },
+  {
+    "id": "8888",
+    "type": "HD",
+    "isValid": true,
+    "index": "HFM9",
+    "position": [
+      56.840283333333,
+      40.928983333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФМ9 - Kukarino - ГА",
+    "name": "КУКАРИНО"
+  },
+  {
+    "id": "10277",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUIO",
+    "position": [
+      56.947941666667,
+      40.953341666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУИО - Ivanovo (Ignatovo) - ГА",
+    "name": "ИГНАТОВО"
+  },
+  {
+    "id": "1556",
+    "type": "HD",
+    "isValid": true,
+    "index": "H184",
+    "position": [
+      56.386752777778,
+      41.251394444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х184 - Kovrov - МО",
+    "name": "КОВРОВ"
+  },
+  {
+    "id": "1705",
+    "type": "HD",
+    "isValid": true,
+    "index": "H506",
+    "position": [
+      56.8291,
+      41.4179166
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х506 - Shuya - МО",
+    "name": "ШУЯ"
+  },
+  {
+    "id": "9253",
+    "type": "HD",
+    "isValid": true,
+    "index": "HG4T",
+    "position": [
+      56.960469444444,
+      40.983855555556
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГ4Т - Ivanovo-Akson - АОН",
+    "name": "ИВАНОВО-АКСОН"
+  },
+  {
+    "id": "8187",
+    "type": "HD",
+    "isValid": true,
+    "index": "HES4",
+    "position": [
+      56.374625,
+      41.584811111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕС4 - NPS Filino - ГА",
+    "name": "НПС ФИЛИНО"
+  },
+  {
+    "id": "10622",
+    "type": "HD",
+    "isValid": true,
+    "index": "UUIH",
+    "position": [
+      56.819916666667,
+      41.8572
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "УУИХ - Palekh - АОН",
+    "name": "ПАЛЕХ"
+  },
+  {
+    "id": "1495",
+    "type": "HD",
+    "isValid": false,
+    "index": "H478",
+    "position": [
+      56.411705555556,
+      42.631041666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х478 - Frolishchi - МО",
+    "name": "ФРОЛИЩИ"
+  },
+  {
+    "id": "1661",
+    "type": "HD",
+    "isValid": true,
+    "index": "H219",
+    "position": [
+      56.369608333333,
+      42.902919444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х219 - Kurgan Polkovoy - МО",
+    "name": "КУРГАН ПОЛКОВОЙ"
+  },
+  {
+    "id": "2149",
+    "type": "HD",
+    "isValid": true,
+    "index": "H142",
+    "position": [
+      56.3966667,
+      42.9743167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х142 - Zaozernaya (GUC) - МО",
+    "name": "ЗАОЗЕРНАЯ (ГУЦ)"
+  },
+  {
+    "id": "1810",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA6N",
+    "position": [
+      56.3982333,
+      42.97835
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА6Н - Zaozernaya-1 (GUC) - МО",
+    "name": "ЗАОЗЕРНАЯ-1 (ГУЦ)"
+  },
+  {
+    "id": "1517",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUDQ",
+    "position": [
+      56.317927777778,
+      43.031994444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУДЯ - Mulino (GUC) - МО",
+    "name": "МУЛИНО (ГУЦ)"
+  },
+  {
+    "id": "1543",
+    "type": "HD",
+    "isValid": false,
+    "index": "H087",
+    "position": [
+      56.459027777778,
+      42.986222222222
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х087 - Khryashchevaya (GUC) - МО",
+    "name": "ХРЯЩЕВАЯ (ГУЦ)"
+  },
+  {
+    "id": "1712",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA4X",
+    "position": [
+      56.38415,
+      43.1423833
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА4Ь - Smolino (GUC) - МО",
+    "name": "СМОЛИНО (ГУЦ)"
+  },
+  {
+    "id": "1671",
+    "type": "HD",
+    "isValid": true,
+    "index": "H369",
+    "position": [
+      56.295583333333,
+      43.308716666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х369 - Pyra - МО",
+    "name": "ПЫРА"
+  },
+  {
+    "id": "2138",
+    "type": "HD",
+    "isValid": false,
+    "index": "H121",
+    "position": [
+      56.2833,
+      43.4166
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х121 - Dzerzhinsk - ГА",
+    "name": "ДЗЕРЖИНСК"
+  },
+  {
+    "id": "10048",
+    "type": "HD",
+    "isValid": false,
+    "index": "HH7S",
+    "position": [
+      56.458597222222,
+      43.503236111111
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХ7С - Gidrotorf - АОН",
+    "name": "ГИДРОТОРФ"
+  },
+  {
+    "id": "1781",
+    "type": "HD",
+    "isValid": false,
+    "index": "H710",
+    "position": [
+      56.636883333333,
+      43.245766666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х710 - Vеrshilovo - АОН",
+    "name": "ВЕРШИЛОВО"
+  },
+  {
+    "id": "7478",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE3S",
+    "position": [
+      56.732852777778,
+      43.362475
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ3С - Platforma Burevestnik - АОН",
+    "name": "ПЛАТФОРМА БУРЕВЕСТНИК"
+  },
+  {
+    "id": "1512",
+    "type": "HD",
+    "isValid": false,
+    "index": "HA1U",
+    "position": [
+      56.609261111111,
+      43.505244444444
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-gray-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА1У - Gorodets - МО",
+    "name": "ГОРОДЕЦ"
+  },
+  {
+    "id": "10336",
+    "type": "HD",
+    "isValid": true,
+    "index": "HHL7",
+    "position": [
+      56.461633333333,
+      43.650408333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХХЛ7 - Baza Volga - АОН",
+    "name": "БАЗА ВОЛГА"
+  },
+  {
+    "id": "9735",
+    "type": "HD",
+    "isValid": true,
+    "index": "HGY2",
+    "position": [
+      56.3116,
+      43.844333333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХГЫ2 - Lesnoy Gorodok - МВД",
+    "name": "ЛЕСНОЙ ГОРОДОК"
+  },
+  {
+    "id": "1720",
+    "type": "HD",
+    "isValid": true,
+    "index": "XUDX",
+    "position": [
+      56.34855,
+      43.7912167
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-red-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ЬУДЬ - Sormovo - ЭА",
+    "name": "СОРМОВО"
+  },
+  {
+    "id": "1514",
+    "type": "HD",
+    "isValid": true,
+    "index": "HA1W",
+    "position": [
+      56.32975,
+      44.032633333333
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХА1В - Grebnoy Kanal - ГА",
+    "name": "ГРЕБНОЙ КАНАЛ"
+  },
+  {
+    "id": "7642",
+    "type": "HD",
+    "isValid": true,
+    "index": "HE6K",
+    "position": [
+      56.323033333333,
+      44.053666666667
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХЕ6К - Nabereznaya grebnoy chanel - АОН",
+    "name": "НАБЕРЕЖНАЯ ГРЕБНОГО КАНАЛА"
+  },
+  {
+    "id": "1657",
+    "type": "HD",
+    "isValid": true,
+    "index": "H713",
+    "position": [
+      56.289583333333,
+      44.120802777778
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х713 - Kuz'minka - МЧС",
+    "name": "КУЗЬМИНКА"
+  },
+  {
+    "id": "1691",
+    "type": "HD",
+    "isValid": true,
+    "index": "H667",
+    "position": [
+      56.310716666667,
+      44.0829
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-violet-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "Х667 - NOKB im. Semashko - МЧС",
+    "name": "НОКБ ИМ. СЕМАШКО"
+  },
+  {
+    "id": "8595",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF64",
+    "position": [
+      56.312408333333,
+      44.09065
+    ],
+    "avgas": true,
+    "petrol": false,
+    "kerosene": true,
+    "icon": {
+      "img": "hd-blue-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ64 - Yakh klub Rybachiy - АОН",
+    "name": "ЯХТ КЛУБ РЫБАЧИЙ"
+  },
+  {
+    "id": "8635",
+    "type": "HD",
+    "isValid": true,
+    "index": "HF6T",
+    "position": [
+      56.275,
+      44.199166666667
+    ],
+    "avgas": false,
+    "petrol": false,
+    "kerosene": false,
+    "icon": {
+      "img": "hd-green-24.png",
+      "size": 18
+    },
+    "isInternational": false,
+    "title": "ХФ6Т - Staraya Gora - ГА",
+    "name": "СТАРАЯ ГОРА"
+  }
+]
