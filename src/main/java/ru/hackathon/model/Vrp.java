@@ -14,5 +14,5 @@ public class Vrp {
     String freq;
     @JsonIgnore
     Icon icon;
-    String[] position;
+    Double[] position;
 }

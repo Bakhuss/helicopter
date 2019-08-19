@@ -8,6 +8,6 @@ public class Ban {
     String type;
     Alt alts;
     String id;
-    String[][] path;
+    Double[][] path;
     String active;
 }

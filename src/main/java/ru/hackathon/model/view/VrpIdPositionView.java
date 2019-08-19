@@ -3,7 +3,7 @@ package ru.hackathon.model.view;
 import lombok.Data;
 
 @Data
-public class RestrictionIdPositionView {
+public class VrpIdPositionView {
     String id;
-    Double[][] path;
+    Double[] position;
 }

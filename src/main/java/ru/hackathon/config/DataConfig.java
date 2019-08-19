@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import ru.hackathon.model.Ban;
 import ru.hackathon.model.Helipad;
 import ru.hackathon.model.Restriction;
 import ru.hackathon.model.Vrp;
@@ -36,6 +37,14 @@ public class DataConfig {
         ObjectMapper mapper = new ObjectMapper();
         InputStream inputStreamVrp = getClass().getResourceAsStream("/queries/vrp.json");
         return mapper.readValue(inputStreamVrp, new TypeReference<List<Vrp>>() {
+        });
+    }
+
+    @Bean
+    public List<Ban> bans() throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        InputStream inputStreamBan = getClass().getResourceAsStream("/queries/bans.json");
+        return mapper.readValue(inputStreamBan, new TypeReference<List<Ban>>() {
         });
     }
 }
