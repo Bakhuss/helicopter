@@ -29,12 +29,12 @@ public class HelipadController {
     }
 
     @GetMapping("/helipad")
-    public List<HeliIdPositionView> getHeliIdsAndPositions() throws Exception {
+    public List<HeliIdPositionView> getHeliIdsAndPositions() {
         return helipadService.getHelicopterIdsAndPositions();
     }
 
     @GetMapping("/restrictions")
-    public List<RestrictionIdPositionView> getRestrictionIdsAndPositions() throws Exception {
+    public List<RestrictionIdPositionView> getRestrictionIdsAndPositions() {
         return helipadService.getRestrictions();
     }
 
